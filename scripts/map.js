@@ -1,0 +1,65 @@
+const map = L.map('map').setView([44.8176, 20.4569], 12);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+
+  const colors = {
+    saturday: '#e63946',
+    sunday: '#457b9d'
+  };
+
+  function makeIcon(day) {
+    return L.divIcon({
+      className: '',
+      html: `<div style="
+        width: 14px; height: 14px;
+        background: ${colors[day]};
+        border: 2px solid #fff;
+        border-radius: 50%;
+        box-shadow: 0 1px 4px rgba(0,0,0,0.4);
+      "></div>`,
+      iconSize: [14, 14],
+      iconAnchor: [7, 7],
+    });
+  }
+
+  let markers = [];
+
+  fetch('events.json')
+    .then(r => r.json())
+    .then(events => {
+      events.forEach(event => {
+        event.coords.forEach(coord => {
+          const marker = L.marker([coord.lat, coord.lng], {
+            icon: makeIcon(event.day)
+          });
+
+          marker.bindPopup(`
+            <strong>${event.name.trim()}</strong><br>
+            📍 ${coord.address}<br>
+            <a href="${event.url}" target="_blank">Подробнее →</a><br>
+            <a href="https://www.google.com/maps/search/?api=1&query=${coord.lat},${coord.lng}" target="_blank">Google Maps →</a>
+          `);
+
+          marker.day = event.day;
+          markers.push(marker);
+          marker.addTo(map);
+        });
+      });
+    });
+
+  function showDay(day) {
+    // Обновляем кнопки
+    document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
+    document.getElementById(`btn-${day}`).classList.add('active');
+
+    // Показываем/скрываем маркеры
+    markers.forEach(marker => {
+      if (day === 'all' || marker.day === day) {
+        marker.addTo(map);
+      } else {
+        marker.remove();
+      }
+    });
+  }
