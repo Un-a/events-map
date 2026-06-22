@@ -1,0 +1,28 @@
+{
+  "bela vorona, beograd": {
+    "lat": 44.8138,
+    "lng": 20.4555,
+    "name": "Bela Vrana"
+  },
+  "sreda obitanja, beograd": {
+    "lat": 44.8161,
+    "lng": 20.4671,
+    "name": "Среда обитания"
+  },
+  "sreda obitaniya, beograd": {
+    "lat": 44.8161,
+    "lng": 20.4671,
+    "name": "Среда обитания"
+  },
+  "narodna opservatorija, kalemegdan, beograd": {
+    "lat": 44.8253,
+    "lng": 20.4507,
+    "name": "Народная обсерватория, Калемегдан"
+  },
+  
+  "ustanova kulture vlada divljan, beograd": {
+    "lat": 44.8168,
+    "lng": 20.4855,
+    "name": "Культурный центр Влада Дивляна"
+  }
+}
