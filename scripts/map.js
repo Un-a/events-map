@@ -50,11 +50,9 @@ const map = L.map('map').setView([44.8176, 20.4569], 12);
     });
 
   function showDay(day) {
-    // Обновляем кнопки
     document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
     document.getElementById(`btn-${day}`).classList.add('active');
 
-    // Показываем/скрываем маркеры
     markers.forEach(marker => {
       if (day === 'all' || marker.day === day) {
         marker.addTo(map);

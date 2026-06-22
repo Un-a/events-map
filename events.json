@@ -1,220 +1,109 @@
 [
   {
-    "name": "Детский базар для маленьких предпринимателей ",
+    "name": "Детская мастерская «Путь к звездам» ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1447",
-    "coords": []
-  },
-  {
-    "name": "Спектакль: «Голубь Гари",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1456",
+    "url": "https://t.me/mamakudaidem/1537",
     "coords": [
       {
-        "address": "Gavrila Principa 40, Beograd",
-        "lat": 44.8111493,
-        "lng": 20.4564066
+        "address": "Narodna opservatorija, Kalemegdan, Beograd",
+        "lat": 44.8253,
+        "lng": 20.4507
       }
     ]
   },
   {
-    "name": " Pizza fest ",
+    "name": "Праздник в музее Африканского искусства",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1399",
+    "url": "https://t.me/mamakudaidem/1535",
     "coords": [
       {
-        "address": "Luka Beograd, Beograd",
-        "lat": 44.8239583,
-        "lng": 20.4783035
+        "address": "Muzej afričke umetnosti, Beograd",
+        "lat": 44.7891148,
+        "lng": 20.4350409
       }
     ]
   },
   {
-    "name": "Мюзикл «обыкновенное чудо» ",
+    "name": "Бесплатная экологическая мастерская ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1462",
+    "url": "https://t.me/mamakudaidem/1522",
     "coords": [
       {
-        "address": "Jevrejski kulturni centar, Beograd",
-        "lat": 44.8265377,
-        "lng": 20.4572678
+        "address": "Evropska kuća, Beograd",
+        "lat": 44.81701,
+        "lng": 20.45764
       }
     ]
   },
   {
-    "name": "Детская мастерская в Шабаце ",
+    "name": "Семейные выходные в MTS Dvorani",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1465",
-    "coords": []
-  },
-  {
-    "name": "Праздник в ТЦ «Gold Park» ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1466",
+    "url": "https://t.me/mamakudaidem/1521",
     "coords": [
       {
-        "address": "Gold Park, Smederevo",
-        "lat": 44.6465865,
-        "lng": 20.9491966
+        "address": "MTS Dvorana, Beograd",
+        "lat": 44.8132202,
+        "lng": 20.4626291
       }
     ]
   },
   {
-    "name": "Праздник в “Beo Shopping» ",
+    "name": "Книжный субботник",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1480",
+    "url": "https://t.me/mamakudaidem/1517",
     "coords": [
       {
-        "address": "BEO Shopping Center, Vojislava Ilića 141, Beograd",
-        "lat": 44.7867322,
-        "lng": 20.5025585
+        "address": "Bela vrana, Beograd",
+        "lat": 44.8124662,
+        "lng": 20.455659
       }
     ]
   },
   {
-    "name": "Бесплатная творческая мастерская (украшаем кепки) ",
+    "name": "Бесплатный спектакль для детей ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1481",
-    "coords": []
-  },
-  {
-    "name": "Карнавал лодок ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1482",
+    "url": "https://t.me/mamakudaidem/1514",
     "coords": [
       {
-        "address": "Kula Nebojsa, Beograd",
-        "lat": 44.8273432,
-        "lng": 20.4478853
-      },
-      {
-        "address": "Brankov most, Beograd",
-        "lat": 44.8148171,
-        "lng": 20.4467637
+        "address": "Ustanova kulture Vlada Divljan, Beograd",
+        "lat": 44.8168,
+        "lng": 20.4855
       }
     ]
   },
   {
-    "name": " Дни семьи",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1492",
-    "coords": [
-      {
-        "address": "Kalemegdan, Beograd",
-        "lat": 44.8233906,
-        "lng": 20.450875
-      },
-      {
-        "address": "Tasmajdan, Beograd",
-        "lat": 44.8092199,
-        "lng": 20.4705954
-      }
-    ]
-  },
-  {
-    "name": "Книжный субботник ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1499",
-    "coords": []
-  },
-  {
-    "name": "Праздник в Новом Белграде ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1500",
-    "coords": [
-      {
-        "address": "Teatar na Savi, Novi Beograd",
-        "lat": 44.7944978,
-        "lng": 20.3842671
-      }
-    ]
-  },
-  {
-    "name": "Детский базар для маленьких  предпринимателей ",
+    "name": "СВОП детских вещей",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1447",
-    "coords": []
-  },
-  {
-    "name": " Pizza fest ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1399",
+    "url": "https://t.me/mamakudaidem/1538",
     "coords": [
       {
-        "address": "Luka Beograd, Beograd",
-        "lat": 44.8239583,
-        "lng": 20.4783035
+        "address": "Sreda Obitaniya, Beograd",
+        "lat": 44.8161,
+        "lng": 20.4671
       }
     ]
   },
   {
-    "name": "Музыкальная сказка «тот самый Буратино» ",
+    "name": "Детская мастерская «Путь к звездам» ",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1462",
+    "url": "https://t.me/mamakudaidem/1537",
     "coords": [
       {
-        "address": "Jevrejski kulturni centar, Beograd",
-        "lat": 44.8265377,
-        "lng": 20.4572678
+        "address": "Narodna opservatorija, Kalemegdan, Beograd",
+        "lat": 44.8253,
+        "lng": 20.4507
       }
     ]
   },
   {
-    "name": "Праздник в ТЦ «Gold Park» ",
+    "name": "Праздник в музее Африканского искусства",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1466",
+    "url": "https://t.me/mamakudaidem/1535",
     "coords": [
       {
-        "address": "Gold Park, Smederevo",
-        "lat": 44.6465865,
-        "lng": 20.9491966
-      }
-    ]
-  },
-  {
-    "name": "Скачки ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1483",
-    "coords": [
-      {
-        "address": "Hipodrom Beograd, Beograd",
-        "lat": 44.7867114,
-        "lng": 20.4265338
-      }
-    ]
-  },
-  {
-    "name": " Дни семьи",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1492",
-    "coords": [
-      {
-        "address": "Kalemegdan, Beograd",
-        "lat": 44.8233906,
-        "lng": 20.450875
-      },
-      {
-        "address": "Tasmajdan, Beograd",
-        "lat": 44.8092199,
-        "lng": 20.4705954
-      }
-    ]
-  },
-  {
-    "name": " Пряничная мастерская",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1498",
-    "coords": []
-  },
-  {
-    "name": "Праздник в Новом Белграде",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1500",
-    "coords": [
-      {
-        "address": "Teatar na Savi, Novi Beograd",
-        "lat": 44.7944978,
-        "lng": 20.3842671
+        "address": "Muzej afričke umetnosti, Beograd",
+        "lat": 44.7891148,
+        "lng": 20.4350409
       }
     ]
   }

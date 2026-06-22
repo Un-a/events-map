@@ -1,6 +1,16 @@
+const knownLocations = require("../knownLocations.json");
+
+const unresolvedAddresses = [];
 
 async function geocode(address) {
   if (!address) return null;
+
+  const key = address.toLowerCase().trim();
+
+  if (knownLocations[key]) {
+    const { lat, lng } = knownLocations[key];
+    return { lat, lng };
+  }
 
   try {
     const query = encodeURIComponent(address);
@@ -14,7 +24,10 @@ async function geocode(address) {
 
     const data = await response.json();
 
-    if (data.length === 0) return null;
+    if (data.length === 0) {
+      unresolvedAddresses.push(address);
+      return null;
+    }
 
     return {
       lat: parseFloat(data[0].lat),
@@ -26,4 +39,8 @@ async function geocode(address) {
   }
 }
 
-module.exports = { geocode };
+function getUnresolvedAddresses() {
+  return unresolvedAddresses;
+}
+
+module.exports = { geocode, getUnresolvedAddresses };

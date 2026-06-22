@@ -1,9 +1,9 @@
 require("dotenv").config();
 require("fs");
-const { extractLocation } = require("./extractLocation");
+const { extractLocation } = require("./scripts/extractLocation");
 const { TelegramClient } = require("telegram");
 const { StringSession } = require("telegram/sessions");
-const { geocode } = require("./geocode");
+const { geocode, getUnresolvedAddresses } = require("./scripts/geocode");
 
 const apiId = Number(process.env.API_ID);
 const apiHash = process.env.API_HASH;
@@ -45,7 +45,6 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
       return { name, url: e.url, day };
     });
 
-  // Кэш: postId -> { locations, coordsArray }
   const cache = {};
 
   const result = [];
@@ -57,7 +56,6 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
     let coordsArray;
 
     if (cache[postId] !== undefined) {
-      console.log("Из кэша:", event.name);
       locations = cache[postId].locations;
       coordsArray = cache[postId].coordsArray;
     } else {
@@ -82,14 +80,14 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
       url: event.url,
       coords: coordsArray,
     });
-
-    console.log("Мероприятие:", event.name);
-    console.log("День:", event.day);
-    console.log("Координаты:", coordsArray);
-    console.log("---");
   }
 
-  console.log("Итого мероприятий:", result.length);
+  const unresolved = getUnresolvedAddresses();
+  if (unresolved.length > 0) {
+    console.log("⚠️ Не найдены координаты для:");
+    unresolved.forEach(addr => console.log("  -", addr));
+  }
+
   const fs = require("fs");
 
   fs.writeFileSync(
