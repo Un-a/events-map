@@ -1,4 +1,4 @@
-const knownLocations = require("../knownLocations.json");
+const knownLocations = require("../../data/knownLocations.json");
 
 const unresolvedAddresses = [];
 
