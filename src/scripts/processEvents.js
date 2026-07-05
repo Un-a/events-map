@@ -18,7 +18,7 @@ async function processEvents(client, events) {
       coordsArray = cache[postId].coordsArray;
     } else {
       const [post] = await client.getMessages("mamakudaidem", { ids: postId });
-      locations = await extractLocation(post.message, event.name);
+      locations = await extractLocation(post.message, event.name, event.day);
       if (!Array.isArray(locations)) locations = [];
 
       coordsArray = [];

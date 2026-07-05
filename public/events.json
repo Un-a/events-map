@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Книжный читакль",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1624",
+    "coords": [
+      {
+        "address": "Bela Vorona, Beograd",
+        "lat": 44.8126,
+        "lng": 20.4557
+      }
+    ]
+  },
+  {
+    "name": "Карнавал в Земуне ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1619",
+    "coords": [
+      {
+        "address": "Veliki trg, Zemun",
+        "lat": 44.8458554,
+        "lng": 20.4134871
+      }
+    ]
+  },
+  {
+    "name": " Бесплатный фестиваль ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1608",
+    "coords": [
+      {
+        "address": "Muzej Jugoslavije, Beograd",
+        "lat": 44.7880195,
+        "lng": 20.4523144
+      }
+    ]
+  },
+  {
+    "name": "Бесплатный астрономический уикенд",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1593",
+    "coords": [
+      {
+        "address": "Beogradski planetarijum, Kalemegdan, Beograd",
+        "lat": 44.8252384,
+        "lng": 20.4496655
+      }
+    ]
+  },
+  {
+    "name": "Концерт",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1629",
+    "coords": [
+      {
+        "address": "Narodni muzej Srbije, Beograd",
+        "lat": 44.8167895,
+        "lng": 20.4596454
+      }
+    ]
+  },
+  {
+    "name": "Карнавал в Земуне",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1619",
+    "coords": [
+      {
+        "address": "Veliki trg, Zemun",
+        "lat": 44.8458554,
+        "lng": 20.4134871
+      }
+    ]
+  },
+  {
+    "name": "Спектакли",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1524",
+    "coords": []
+  },
+  {
+    "name": "Встреча с ящерицами в игровой ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1598",
+    "coords": [
+      {
+        "address": "Play Land, Beograd",
+        "lat": 44.8101,
+        "lng": 20.4323
+      }
+    ]
+  },
+  {
+    "name": "Квест «охотники за тайнами» ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1597",
+    "coords": [
+      {
+        "address": "Skadarska, Beograd",
+        "lat": 44.8193074,
+        "lng": 20.4672361
+      }
+    ]
+  },
+  {
+    "name": "Бесплатный астрономический уикенд",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1593",
+    "coords": [
+      {
+        "address": "Beogradski planetarijum, Kalemegdan, Beograd",
+        "lat": 44.8252384,
+        "lng": 20.4496655
+      }
+    ]
+  }
+]
