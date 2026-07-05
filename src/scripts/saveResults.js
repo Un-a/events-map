@@ -9,12 +9,12 @@ function saveResults(result) {
   }
 
   fs.writeFileSync(
-    "public/events.json",
+    "docs/events.json",
     JSON.stringify(result, null, 2),
     "utf-8"
   );
 
-  console.log("public/events.json сохранён!");
+  console.log("docs/events.json сохранён!");
 }
 
 module.exports = { saveResults };
