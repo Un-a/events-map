@@ -5,9 +5,9 @@
     "url": "https://t.me/mamakudaidem/1624",
     "coords": [
       {
-        "address": "Bela Vorona, Beograd",
-        "lat": 44.8126,
-        "lng": 20.4557
+        "address": "Bela vrana, Beograd",
+        "lat": 44.8124662,
+        "lng": 20.455659
       }
     ]
   },
@@ -17,7 +17,7 @@
     "url": "https://t.me/mamakudaidem/1619",
     "coords": [
       {
-        "address": "Veliki trg, Zemun",
+        "address": "Veliki trg, Zemun, Beograd",
         "lat": 44.8458554,
         "lng": 20.4134871
       }
@@ -41,9 +41,9 @@
     "url": "https://t.me/mamakudaidem/1593",
     "coords": [
       {
-        "address": "Beogradski planetarijum, Kalemegdan, Beograd",
-        "lat": 44.8252384,
-        "lng": 20.4496655
+        "address": "Planetarijum Beograd, Kalemegdan, Beograd",
+        "lat": 44.8253,
+        "lng": 20.4507
       }
     ]
   },
@@ -65,7 +65,7 @@
     "url": "https://t.me/mamakudaidem/1619",
     "coords": [
       {
-        "address": "Veliki trg, Zemun",
+        "address": "Veliki trg, Zemun, Beograd",
         "lat": 44.8458554,
         "lng": 20.4134871
       }
@@ -75,7 +75,13 @@
     "name": "Спектакли",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/1524",
-    "coords": []
+    "coords": [
+      {
+        "address": "Letnja scena Gardoš, Beograd",
+        "lat": 44.8487,
+        "lng": 20.4092
+      }
+    ]
   },
   {
     "name": "Встреча с ящерицами в игровой ",
@@ -107,9 +113,9 @@
     "url": "https://t.me/mamakudaidem/1593",
     "coords": [
       {
-        "address": "Beogradski planetarijum, Kalemegdan, Beograd",
-        "lat": 44.8252384,
-        "lng": 20.4496655
+        "address": "Planetarijum Beograd, Kalemegdan, Beograd",
+        "lat": 44.8253,
+        "lng": 20.4507
       }
     ]
   }
