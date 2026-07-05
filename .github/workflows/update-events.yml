@@ -1,0 +1,45 @@
+name: Update events
+
+on:
+  schedule:
+    - cron: '0 6 * * 5'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: develop
+          fetch-depth: 0  # нужно для мёржа
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          API_ID: ${{ secrets.API_ID }}
+          API_HASH: ${{ secrets.API_HASH }}
+          SESSION: ${{ secrets.SESSION }}
+        run: npm start
+
+      - name: Commit events.json to develop
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add docs/events.json
+          git commit -m "Update events" || echo "No changes, skipping"
+          git push origin develop
+
+      - name: Merge develop into main
+        run: |
+          git checkout main
+          git merge develop
+          git push origin main
