@@ -1,7 +1,7 @@
 {
   "bela vorona, beograd": {
-    "lat": 44.8138,
-    "lng": 20.4555,
+    "lat": 44.8126,
+    "lng": 20.4557,
     "name": "Bela Vrana"
   },
   "sreda obitanja, beograd": {
@@ -14,15 +14,39 @@
     "lng": 20.4671,
     "name": "Среда обитания"
   },
-  "narodna opservatorija, kalemegdan, beograd": {
+    "narodna opservatorija, kalemegdan, beograd": {
     "lat": 44.8253,
     "lng": 20.4507,
     "name": "Народная обсерватория, Калемегдан"
   },
-  
+  "planetarijum beograd, kalemegdan, beograd": {
+    "lat": 44.8253,
+    "lng": 20.4507,
+    "name": "Народная обсерватория, Калемегдан"
+  },
+  "astronomska opservatorija beograd, volgina 7, beograd": {
+    "lat": 44.8024,
+    "lng": 20.5135,
+    "name": "Астрономическая обсерватория Белграда (Звездарра)"
+  },
   "ustanova kulture vlada divljan, beograd": {
     "lat": 44.8168,
     "lng": 20.4855,
     "name": "Культурный центр Влада Дивляна"
+  },
+  "letnja scena gardoš, beograd": {
+    "lat": 44.8487,
+    "lng": 20.4092,
+    "name": "Летняя сцена Гардош"
+  },
+  "letnja scena gardoš, zemun": {
+    "lat": 44.8487,
+    "lng": 20.4092,
+    "name": "Летняя сцена Гардош"
+  },
+  "play land, beograd": {
+    "lat": 44.8101,
+    "lng": 20.4323,
+    "name": "Play Land"
   }
 }
