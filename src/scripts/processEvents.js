@@ -1,5 +1,6 @@
 const { extractLocation } = require("./extractLocation");
 const { geocode } = require("./geocode");
+const { getWeekendDates } = require("./getWeekendDates");
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -18,7 +19,13 @@ async function processEvents(client, events) {
       coordsArray = cache[postId].coordsArray;
     } else {
       const [post] = await client.getMessages("mamakudaidem", { ids: postId });
-      locations = await extractLocation(post.message, event.name, event.day);
+      const dates = getWeekendDates(
+        process.env.OVERRIDE_SATURDAY || null,
+        process.env.OVERRIDE_SUNDAY || null
+      );
+      const dateForDay = event.day === 'saturday' ? dates.saturday : dates.sunday;
+
+      locations = await extractLocation(post.message, event.name, event.day, dateForDay);
       if (!Array.isArray(locations)) locations = [];
 
       coordsArray = [];
