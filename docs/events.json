@@ -27,7 +27,13 @@
     "name": "Программа фестиваля в Земуне ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1639",
-    "coords": []
+    "coords": [
+      {
+        "address": "Veliki trg, Zemun, Beograd",
+        "lat": 44.8458554,
+        "lng": 20.4134871
+      }
+    ]
   },
   {
     "name": "Программа фестиваля в парке «Топчидер» ",
@@ -69,7 +75,18 @@
     "name": "Экскурсия в национальном музее ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1647",
-    "coords": []
+    "coords": [
+      {
+        "address": "Memorijalni muzej Nadežde i Rastka Petrovića, Beograd",
+        "lat": 44.8146,
+        "lng": 20.4788
+      },
+      {
+        "address": "Narodni muzej Srbije, Beograd",
+        "lat": 44.8167895,
+        "lng": 20.4596454
+      }
+    ]
   },
   {
     "name": "Бесплатные МК в Калемегдане ",
@@ -117,7 +134,13 @@
     "name": "Программа фестиваля в Земуне ",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/1639",
-    "coords": []
+    "coords": [
+      {
+        "address": "Veliki trg, Zemun, Beograd",
+        "lat": 44.8458554,
+        "lng": 20.4134871
+      }
+    ]
   },
   {
     "name": "Детский МК, миссия «Космонавт» , для детей 6-12 лет. ",
