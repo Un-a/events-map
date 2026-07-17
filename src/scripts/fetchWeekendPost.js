@@ -1,9 +1,9 @@
 async function fetchWeekendPost(client) {
-  const messages = await client.getMessages("mamakudaidem", { limit: 50 });
+  const messages = await client.getMessages("mamakudaidem", { limit: 0 });
 
-  const weekendPost = messages.find((msg) =>
-    msg.message && msg.message.toLowerCase().includes("анонс на выходные")
-  );
+ const weekendPost = messages.find((msg) =>
+  msg.message && /анонс на (эти )?выходные/i.test(msg.message)
+);
 
   if (!weekendPost) {
     throw new Error("Пост не найден — попробуй увеличить limit");
