@@ -27,96 +27,65 @@
     "name": "Программа фестиваля в Земуне ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1639",
-    "coords": [
-      {
-        "address": "Veliki trg, Zemun, Beograd",
-        "lat": 44.8458554,
-        "lng": 20.4134871
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Программа фестиваля в парке «Топчидер» ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1643",
-    "coords": [
-      {
-        "address": "Topčiderski park, Beograd",
-        "lat": 44.7789483,
-        "lng": 20.4393659
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Маленькие драконы» ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1644",
-    "coords": [
-      {
-        "address": "Kneza Danila 45, Beograd",
-        "lat": 44.8085555,
-        "lng": 20.4783809
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Научная школа для детей 8-12 лет. ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1646",
-    "coords": [
-      {
-        "address": "Galerija prirodnjačkog muzeja, Beograd",
-        "lat": 44.8221575,
-        "lng": 20.4515427
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Экскурсия в национальном музее ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1647",
-    "coords": [
-      {
-        "address": "Memorijalni muzej Nadežde i Rastka Petrovića, Beograd",
-        "lat": 44.8146,
-        "lng": 20.4788
-      },
-      {
-        "address": "Narodni muzej Srbije, Beograd",
-        "lat": 44.8167895,
-        "lng": 20.4596454
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Бесплатные МК в Калемегдане ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1656",
-    "coords": [
-      {
-        "address": "Kalemegdan, Beograd",
-        "lat": 44.8233906,
-        "lng": 20.450875
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Ночевка в «Nase gnezdо» ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1660",
-    "coords": [
-      {
-        "address": "Nase gnezdo, Beograd",
-        "lat": 44.7938,
-        "lng": 20.4939
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Теремок - 4 часа без родителей. (Игры, столярка, кулинария.) \n",
     "day": "saturday",
     "url": "https://t.me/zemunoffline",
-    "coords": []
+    "coords": [
+      {
+        "address": "Kalemegdan, Beograd",
+        "lat": 44.8233906,
+        "lng": 20.450875
+      },
+      {
+        "address": "Tasmajdan, Beograd",
+        "lat": 44.8092199,
+        "lng": 20.4705954
+      },
+      {
+        "address": "Zemun, Beograd",
+        "lat": 44.8444,
+        "lng": 20.4123996
+      }
+    ]
   },
   {
     "name": "Фестиваль «Пикник",
@@ -134,42 +103,40 @@
     "name": "Программа фестиваля в Земуне ",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/1639",
-    "coords": [
-      {
-        "address": "Veliki trg, Zemun, Beograd",
-        "lat": 44.8458554,
-        "lng": 20.4134871
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Детский МК, миссия «Космонавт» , для детей 6-12 лет. ",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/1662",
-    "coords": [
-      {
-        "address": "Narodna opservatorija, Kalemegdan, Beograd",
-        "lat": 44.8253,
-        "lng": 20.4507
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Скачки! ",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/1668",
-    "coords": [
-      {
-        "address": "Hipodrom Beograd, Beograd",
-        "lat": 44.7867114,
-        "lng": 20.4265338
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Теремок - 4 часа без родителей. (Игры, столярка, кулинария.)",
     "day": "sunday",
     "url": "https://t.me/zemunoffline",
-    "coords": []
+    "coords": [
+      {
+        "address": "Kalemegdan, Beograd",
+        "lat": 44.8233906,
+        "lng": 20.450875
+      },
+      {
+        "address": "Tasmajdan, Beograd",
+        "lat": 44.8092199,
+        "lng": 20.4705954
+      },
+      {
+        "address": "Zemun, Beograd",
+        "lat": 44.8444,
+        "lng": 20.4123996
+      }
+    ]
   }
 ]
