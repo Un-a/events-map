@@ -1,96 +1,92 @@
 [
   {
-    "name": "Изготовление бусин из глины в книжном «Лав и Жабац»  ",
+    "name": "Бесплатный цирк у ТЦ ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1633",
+    "url": "https://t.me/mamakudaidem/1742",
     "coords": [
       {
-        "address": "Lav i Žabac, Beograd",
-        "lat": 44.8211976,
-        "lng": 20.4557408
-      }
-    ]
-  },
-  {
-    "name": "Пенная вечеринка",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1635",
-    "coords": [
-      {
-        "address": "Aviv Park Zvezdara, Beograd",
+        "address": "Aviv Park, Zvezdara, Beograd",
         "lat": 44.7860942,
         "lng": 20.5144943
       }
     ]
   },
   {
-    "name": "Программа фестиваля в Земуне ",
+    "name": "Vracar open air ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1639",
-    "coords": []
+    "url": "https://t.me/mamakudaidem/1691",
+    "coords": [
+      {
+        "address": "Vracar, Beograd",
+        "lat": 44.7979128,
+        "lng": 20.4721945
+      }
+    ]
   },
   {
-    "name": "Программа фестиваля в парке «Топчидер» ",
+    "name": "Кино под открытым небом во Врачаре (программа",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1643",
-    "coords": []
+    "url": "https://t.me/mamakudaidem/1711",
+    "coords": [
+      {
+        "address": "Njegoševa 77, Beograd",
+        "lat": 44.800647,
+        "lng": 20.4743232
+      }
+    ]
   },
   {
-    "name": "Маленькие драконы» ",
+    "name": "Волшебное шоу в Раковице ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1644",
-    "coords": []
+    "url": "https://t.me/mamakudaidem/1766",
+    "coords": [
+      {
+        "address": "Rakovica, Beograd",
+        "lat": 44.7466503,
+        "lng": 20.4429542
+      }
+    ]
   },
   {
-    "name": "Научная школа для детей 8-12 лет. ",
+    "name": "Афиша. Бесплатные  мероприятия в Калемегдане ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1646",
-    "coords": []
-  },
-  {
-    "name": "Экскурсия в национальном музее ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1647",
-    "coords": []
-  },
-  {
-    "name": "Бесплатные МК в Калемегдане ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1656",
-    "coords": []
-  },
-  {
-    "name": "Ночевка в «Nase gnezdо» ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1660",
-    "coords": []
-  },
-  {
-    "name": "Теремок - 4 часа без родителей. (Игры, столярка, кулинария.) \n",
-    "day": "saturday",
-    "url": "https://t.me/zemunoffline",
+    "url": "https://t.me/mamakudaidem/1768",
     "coords": [
       {
         "address": "Kalemegdan, Beograd",
         "lat": 44.8233906,
         "lng": 20.450875
-      },
-      {
-        "address": "Tasmajdan, Beograd",
-        "lat": 44.8092199,
-        "lng": 20.4705954
-      },
-      {
-        "address": "Zemun, Beograd",
-        "lat": 44.8444,
-        "lng": 20.4123996
       }
     ]
   },
   {
-    "name": "Фестиваль «Пикник",
+    "name": "Бесплатные мероприятия в Таше  ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1778",
+    "coords": [
+      {
+        "address": "Tasmajdan park, Beograd",
+        "lat": 44.8092199,
+        "lng": 20.4705954
+      }
+    ]
+  },
+  {
+    "name": "Теремок (3+) ",
+    "day": "saturday",
+    "url": "https://t.me/zemunoffline",
+    "coords": []
+  },
+  {
+    "name": "День Нептуна в Продленке   ",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1637",
+    "url": "https://t.me/mamakudaidem/1738",
+    "coords": []
+  },
+  {
+    "name": "Пикник в парке Топчидер ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1743",
     "coords": [
       {
         "address": "Topčiderski park, Beograd",
@@ -100,43 +96,51 @@
     ]
   },
   {
-    "name": "Программа фестиваля в Земуне ",
+    "name": "Конкурс по приготовлению Гуляша ",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1639",
+    "url": "https://t.me/mamakudaidem/1753",
     "coords": []
   },
   {
-    "name": "Детский МК, миссия «Космонавт» , для детей 6-12 лет. ",
+    "name": "Афиша. Бесплатные  мероприятия в Калемегдане ",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1662",
-    "coords": []
-  },
-  {
-    "name": "Скачки! ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1668",
-    "coords": []
-  },
-  {
-    "name": "Теремок - 4 часа без родителей. (Игры, столярка, кулинария.)",
-    "day": "sunday",
-    "url": "https://t.me/zemunoffline",
+    "url": "https://t.me/mamakudaidem/1768",
     "coords": [
       {
         "address": "Kalemegdan, Beograd",
         "lat": 44.8233906,
         "lng": 20.450875
-      },
-      {
-        "address": "Tasmajdan, Beograd",
-        "lat": 44.8092199,
-        "lng": 20.4705954
-      },
-      {
-        "address": "Zemun, Beograd",
-        "lat": 44.8444,
-        "lng": 20.4123996
       }
     ]
+  },
+  {
+    "name": "Бесплатные мероприятия в Таше  ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1778",
+    "coords": [
+      {
+        "address": "Tasmajdan park, Beograd",
+        "lat": 44.8092199,
+        "lng": 20.4705954
+      }
+    ]
+  },
+  {
+    "name": "Городской квест для детей 9-13 лет. Бесплатно ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1788",
+    "coords": [
+      {
+        "address": "Skadarska, Beograd",
+        "lat": 44.8180993,
+        "lng": 20.4647579
+      }
+    ]
+  },
+  {
+    "name": "Теремок",
+    "day": "sunday",
+    "url": "https://t.me/zemunoffline",
+    "coords": []
   }
 ]
