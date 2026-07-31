@@ -1,139 +1,159 @@
 [
   {
-    "name": "Бесплатный цирк у ТЦ ",
+    "name": "Теремок",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1742",
+    "url": "https://t.me/zemunoffline",
     "coords": [
       {
-        "address": "Aviv Park, Zvezdara, Beograd",
-        "lat": 44.7860942,
-        "lng": 20.5144943
+        "address": "Sportski centar Banjica, Beograd",
+        "lat": 44.7631698,
+        "lng": 20.4744982
       }
     ]
   },
   {
-    "name": "Vracar open air ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1691",
+    "name": "Пенная вечеринка",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1813",
+    "coords": []
+  },
+  {
+    "name": "Театральное приключение",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1815",
+    "coords": []
+  },
+  {
+    "name": "Книжный субботник ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1828",
     "coords": [
       {
-        "address": "Vracar, Beograd",
-        "lat": 44.7979128,
-        "lng": 20.4721945
+        "address": "Gavrila Principa 29, Beograd",
+        "lat": 44.8125036,
+        "lng": 20.4557921
       }
     ]
   },
   {
-    "name": "Кино под открытым небом во Врачаре (программа",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1711",
+    "name": "Субботний клуб от BeSmart ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1829",
+    "coords": []
+  },
+  {
+    "name": "Как звучит искусство? ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1834",
     "coords": [
       {
-        "address": "Njegoševa 77, Beograd",
-        "lat": 44.800647,
-        "lng": 20.4743232
+        "address": "Muzej savremene umetnosti, Beograd",
+        "lat": 44.8195944,
+        "lng": 20.4424002
       }
     ]
   },
   {
-    "name": "Волшебное шоу в Раковице ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1766",
-    "coords": [
-      {
-        "address": "Rakovica, Beograd",
-        "lat": 44.7466503,
-        "lng": 20.4429542
-      }
-    ]
+    "name": "Фестиваль в парке Воеводе Бойовича ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1835",
+    "coords": []
   },
   {
-    "name": "Афиша. Бесплатные  мероприятия в Калемегдане ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1768",
+    "name": " Расписание активностей в Таше (фестиваль «Белградское лето» ) ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1837",
     "coords": [
       {
         "address": "Kalemegdan, Beograd",
         "lat": 44.8233906,
         "lng": 20.450875
-      }
-    ]
-  },
-  {
-    "name": "Бесплатные мероприятия в Таше  ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1778",
-    "coords": [
+      },
       {
-        "address": "Tasmajdan park, Beograd",
+        "address": "Tasmajdan, Beograd",
         "lat": 44.8092199,
         "lng": 20.4705954
       }
     ]
   },
   {
-    "name": "Теремок (3+) ",
-    "day": "saturday",
-    "url": "https://t.me/zemunoffline",
-    "coords": []
-  },
-  {
-    "name": "День Нептуна в Продленке   ",
+    "name": " Расписание активностей в Калемегдане",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1738",
-    "coords": []
-  },
-  {
-    "name": "Пикник в парке Топчидер ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1743",
+    "url": "https://t.me/mamakudaidem/1837",
     "coords": [
       {
-        "address": "Topčiderski park, Beograd",
+        "address": "Kalemegdan, Beograd",
+        "lat": 44.8233906,
+        "lng": 20.450875
+      },
+      {
+        "address": "Tasmajdan, Beograd",
+        "lat": 44.8092199,
+        "lng": 20.4705954
+      }
+    ]
+  },
+  {
+    "name": "Летние игры в парке Топчидер ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1848",
+    "coords": [
+      {
+        "address": "Topciderski park, Beograd",
         "lat": 44.7789483,
         "lng": 20.4393659
       }
     ]
   },
   {
-    "name": "Конкурс по приготовлению Гуляша ",
+    "name": "Лепка из глины + роспись (мама + ребенок) ",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1753",
+    "url": "https://t.me/mamakudaidem/1816",
     "coords": []
   },
   {
-    "name": "Афиша. Бесплатные  мероприятия в Калемегдане ",
+    "name": "Расписание активностей в Калемегдане",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1768",
+    "url": "https://t.me/mamakudaidem/1837",
     "coords": [
       {
         "address": "Kalemegdan, Beograd",
         "lat": 44.8233906,
         "lng": 20.450875
-      }
-    ]
-  },
-  {
-    "name": "Бесплатные мероприятия в Таше  ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1778",
-    "coords": [
+      },
       {
-        "address": "Tasmajdan park, Beograd",
+        "address": "Tasmajdan, Beograd",
         "lat": 44.8092199,
         "lng": 20.4705954
       }
     ]
   },
   {
-    "name": "Городской квест для детей 9-13 лет. Бесплатно ",
+    "name": "Расписание активностей в Таше",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1788",
+    "url": "https://t.me/mamakudaidem/1837",
     "coords": [
       {
-        "address": "Skadarska, Beograd",
-        "lat": 44.8180993,
-        "lng": 20.4647579
+        "address": "Kalemegdan, Beograd",
+        "lat": 44.8233906,
+        "lng": 20.450875
+      },
+      {
+        "address": "Tasmajdan, Beograd",
+        "lat": 44.8092199,
+        "lng": 20.4705954
+      }
+    ]
+  },
+  {
+    "name": "Летние игры в парке Топчидер",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1848",
+    "coords": [
+      {
+        "address": "Topciderski park, Beograd",
+        "lat": 44.7789483,
+        "lng": 20.4393659
       }
     ]
   },
@@ -141,6 +161,12 @@
     "name": "Теремок",
     "day": "sunday",
     "url": "https://t.me/zemunoffline",
-    "coords": []
+    "coords": [
+      {
+        "address": "Sportski centar Banjica, Beograd",
+        "lat": 44.7631698,
+        "lng": 20.4744982
+      }
+    ]
   }
 ]
