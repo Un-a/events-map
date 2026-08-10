@@ -7,31 +7,49 @@
   },
   {
     "name": "Пенная вечеринка",
-    "day": "sunday",
+    "day": "saturday",
     "url": "https://t.me/mamakudaidem/1813",
-    "coords": []
+    "coords": [
+      {
+        "address": "Prirodnjački centar Srbije, Svilajnac",
+        "lat": 44.2318,
+        "lng": 21.1923
+      }
+    ]
   },
   {
     "name": "Театральное приключение",
-    "day": "sunday",
+    "day": "saturday",
     "url": "https://t.me/mamakudaidem/1815",
-    "coords": []
+    "coords": [
+      {
+        "address": "Dvorana Park, Arandjelovac",
+        "lat": 44.3082,
+        "lng": 20.5574
+      }
+    ]
   },
   {
     "name": "Книжный субботник ",
-    "day": "sunday",
+    "day": "saturday",
     "url": "https://t.me/mamakudaidem/1828",
     "coords": []
   },
   {
     "name": "Субботний клуб от BeSmart ",
-    "day": "sunday",
+    "day": "saturday",
     "url": "https://t.me/mamakudaidem/1829",
-    "coords": []
+    "coords": [
+      {
+        "address": "Hadži Milentijeva 78, Beograd",
+        "lat": 44.79437,
+        "lng": 20.4766
+      }
+    ]
   },
   {
     "name": "Как звучит искусство? ",
-    "day": "sunday",
+    "day": "saturday",
     "url": "https://t.me/mamakudaidem/1834",
     "coords": [
       {
@@ -43,31 +61,37 @@
   },
   {
     "name": "Фестиваль в парке Воеводе Бойовича ",
-    "day": "sunday",
+    "day": "saturday",
     "url": "https://t.me/mamakudaidem/1835",
-    "coords": []
+    "coords": [
+      {
+        "address": "Park vojvode Bojovića, Beograd",
+        "lat": 44.8018845,
+        "lng": 20.4753069
+      }
+    ]
   },
   {
     "name": " Расписание активностей в Таше (фестиваль «Белградское лето» ) ",
-    "day": "sunday",
+    "day": "saturday",
     "url": "https://t.me/mamakudaidem/1837",
     "coords": []
   },
   {
     "name": " Расписание активностей в Калемегдане",
-    "day": "sunday",
+    "day": "saturday",
     "url": "https://t.me/mamakudaidem/1837",
     "coords": []
   },
   {
     "name": "Летние игры в парке Топчидер ",
-    "day": "sunday",
+    "day": "saturday",
     "url": "https://t.me/mamakudaidem/1848",
     "coords": [
       {
-        "address": "Topčiderski park, Beograd",
-        "lat": 44.7789483,
-        "lng": 20.4393659
+        "address": "Konak kneza Miloša, Topčiderski park, Beograd",
+        "lat": 44.7807,
+        "lng": 20.4424
       }
     ]
   },
@@ -75,7 +99,13 @@
     "name": "Лепка из глины + роспись (мама + ребенок) ",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/1816",
-    "coords": []
+    "coords": [
+      {
+        "address": "Claycore, Beograd",
+        "lat": 44.82197,
+        "lng": 20.4707
+      }
+    ]
   },
   {
     "name": "Расписание активностей в Калемегдане",
@@ -95,9 +125,9 @@
     "url": "https://t.me/mamakudaidem/1848",
     "coords": [
       {
-        "address": "Topčiderski park, Beograd",
-        "lat": 44.7789483,
-        "lng": 20.4393659
+        "address": "Konak kneza Miloša, Topčiderski park, Beograd",
+        "lat": 44.7807,
+        "lng": 20.4424
       }
     ]
   },

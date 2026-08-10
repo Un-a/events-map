@@ -16,8 +16,8 @@ function parseEvents(weekendPost) {
   const text = weekendPost.message;
   const entities = weekendPost.entities || [];
 
-  const saturdayIndex = text.toLowerCase().indexOf("суббота");
-  const sundayIndex = text.toLowerCase().indexOf("воскресенье");
+  const saturdayIndex = text.search(/^суббота\s*:/im);
+  const sundayIndex = text.search(/^воскресенье\s*:/im);
 
   const events = entities
     .filter((e) => e.className === "MessageEntityTextUrl")
