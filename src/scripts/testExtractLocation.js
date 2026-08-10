@@ -3,7 +3,8 @@ const { extractLocation } = require("./extractLocation");
 const { initializeTelegramClient } = require("./telegramClient");
 const { getWeekendDates } = require("./getWeekendDates");
 
-const postUrl = "https://t.me/mamakudaidem/1647";
+const postUrl = "https://t.me/mamakudaidem/1837";
+const namePost = "Расписание активностей в Таше (фестиваль «Белградское лето» )";
 
 (async () => {
   const client = await initializeTelegramClient();
@@ -17,8 +18,8 @@ const postUrl = "https://t.me/mamakudaidem/1647";
       process.env.OVERRIDE_SATURDAY || null,
       process.env.OVERRIDE_SUNDAY || null
     );
-  const result = await extractLocation(post.message, "тест", "saturday", dates.saturday);
-  console.log("Результат:", result);
+  const result = await extractLocation(post.message, namePost, "saturday", dates.saturday);
+  console.log("Результат:", result, namePost);
   
   await client.disconnect();
 })();

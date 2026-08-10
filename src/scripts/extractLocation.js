@@ -25,13 +25,14 @@ const prompt = `Ты — гео-ассистент. Из текста анонс
 Если мест несколько - верни все.
 Если адрес не найден - верни пустой массив [].
 ${dayInstruction}
+
+Название: ${eventName} 
+Текст: ${text}
+
 Примеры ответов:
 - ["Kalemegdan, Beograd"]
 - ["Kalemegdan, Beograd", "Tasmajdan park, Beograd"]
-- []
-
-Название: ${eventName} 
-Текст: ${text}`;
+- []`;
 
   const maxAttempts = 3;
 

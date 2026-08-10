@@ -58,5 +58,35 @@
     "lat": 44.8146,
     "lng": 20.4788,
     "name": "Memorijalni muzej Nadežde i Rastka Petrovića"
+  },
+  "centar za prirodu, beograd": {
+    "lat": 44.2318,
+    "lng": 21.1923,
+    "name": "Природний центр, Свилайнац"
+  },
+    "prirodnjački centar srbije, svilajnac": {
+    "lat": 44.2318,
+    "lng": 21.1923,
+    "name": "Природний центр, Свилайнац"
+  },
+  "dvorana park, arandjelovac": {
+    "lat": 44.3082,
+    "lng": 20.5574,
+    "name": "Дворана парк, Аранджеловац"
+  },
+  "hadži milentijeva 78, beograd": {
+    "lat": 44.79437,
+    "lng": 20.4766,
+    "name": "Хаджи Милентьева, 78, Be Smart"
+  },
+  "konak kneza miloša, topčiderski park, beograd": {
+    "lat": 44.7807,
+    "lng": 20.4424,
+    "name": "Резиденция князя Милоша, Топчидерский парк"
+  },
+  "claycore, beograd": {
+    "lat": 44.82197,
+    "lng": 20.4707,
+    "name": "Claycore"
   }
 }

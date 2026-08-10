@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/index.js",
     "auth-tg": "node src/scripts/auth.js",
-    "test-llm": "node src/scripts/test.js",
+    "test-llm": "node src/scripts/testExtractLocation.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
