@@ -33,13 +33,7 @@
     "name": "Книжный субботник ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1828",
-    "coords": [
-      {
-        "address": "Gavrila Principa 29, Beograd",
-        "lat": 44.8125036,
-        "lng": 20.4557921
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Субботний клуб от BeSmart ",
@@ -81,35 +75,13 @@
     "name": " Расписание активностей в Таше (фестиваль «Белградское лето» ) ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1837",
-    "coords": [
-      {
-        "address": "Kalemegdan, Beograd",
-        "lat": 44.8233906,
-        "lng": 20.450875
-      },
-      {
-        "address": "Tasmajdan, Beograd",
-        "lat": 44.8092199,
-        "lng": 20.4705954
-      }
-    ]
+    "coords": []
   },
   {
     "name": " Расписание активностей в Калемегдане",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1837",
-    "coords": [
-      {
-        "address": "Kalemegdan, Beograd",
-        "lat": 44.8233906,
-        "lng": 20.450875
-      },
-      {
-        "address": "Tasmajdan, Beograd",
-        "lat": 44.8092199,
-        "lng": 20.4705954
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Летние игры в парке Топчидер ",
@@ -139,35 +111,13 @@
     "name": "Расписание активностей в Калемегдане",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/1837",
-    "coords": [
-      {
-        "address": "Kalemegdan, Beograd",
-        "lat": 44.8233906,
-        "lng": 20.450875
-      },
-      {
-        "address": "Tasmajdan, Beograd",
-        "lat": 44.8092199,
-        "lng": 20.4705954
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Расписание активностей в Таше",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/1837",
-    "coords": [
-      {
-        "address": "Kalemegdan, Beograd",
-        "lat": 44.8233906,
-        "lng": 20.450875
-      },
-      {
-        "address": "Tasmajdan, Beograd",
-        "lat": 44.8092199,
-        "lng": 20.4705954
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Летние игры в парке Топчидер",
