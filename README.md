@@ -1,12 +1,12 @@
-# Belgrade Family Events Map
+# Weekend Family Events Map
 
-An interactive map of family-friendly events in Belgrade, Serbia.
+An interactive map of family-friendly events in Belgrade and nearby areas (Serbia).
 
-The application automatically collects weekend event information from the Russian-language Telegram channel [@mamakudaidem](https://t.me/mamakudaidem), extracts event venues using Google Gemini, finds their coordinates via OpenStreetMap, and displays them on an interactive map.
+The application automatically collects weekend event information from the Russian-language Telegram channel [“Мама, куда идём сегодня”](https://t.me/mamakudaidem) (“Mom, where are we going today?”), extracts event venues using Google Gemini, finds their coordinates via OpenStreetMap, and displays them on an interactive map.
 
 ## Demo
 
-[Open Belgrade Family Events Map](https://un-a.github.io/events-map/)
+[Open Weekend Family Events Map](https://un-a.github.io/events-map/)
 
 > **Note:** Event information is displayed in Russian because the data comes from a Russian-language Telegram channel.
 
@@ -77,6 +77,6 @@ A **GitHub Actions** workflow runs every Friday, executes the data collection pi
 
 ## Why I Built It
 
-I built this project to make it easier for families in Belgrade to discover weekend events in one place.
+I built this project to make it easier for families in Belgrade and nearby areas to discover weekend events in one place.
 
 The application automates the process of collecting event information from Telegram, identifying venues, and displaying them on a map with direct links to the original event posts and locations.
