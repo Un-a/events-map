@@ -9,13 +9,7 @@
     "name": "Пенная вечеринка",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1813",
-    "coords": [
-      {
-        "address": "Prirodnjački centar Srbije, Svilajnac",
-        "lat": 44.2318,
-        "lng": 21.1923
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Театральное приключение",
@@ -33,7 +27,13 @@
     "name": "Книжный субботник ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1828",
-    "coords": []
+    "coords": [
+      {
+        "address": "Gavrila Principa 29, Beograd",
+        "lat": 44.8125036,
+        "lng": 20.4557921
+      }
+    ]
   },
   {
     "name": "Субботний клуб от BeSmart ",
@@ -87,13 +87,7 @@
     "name": "Летние игры в парке Топчидер ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1848",
-    "coords": [
-      {
-        "address": "Konak kneza Miloša, Topčiderski park, Beograd",
-        "lat": 44.7807,
-        "lng": 20.4424
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Лепка из глины + роспись (мама + ребенок) ",
@@ -123,13 +117,7 @@
     "name": "Летние игры в парке Топчидер",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/1848",
-    "coords": [
-      {
-        "address": "Konak kneza Miloša, Topčiderski park, Beograd",
-        "lat": 44.7807,
-        "lng": 20.4424
-      }
-    ]
+    "coords": []
   },
   {
     "name": "Теремок",
