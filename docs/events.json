@@ -1,128 +1,228 @@
 [
   {
-    "name": "Теремок",
+    "name": "Летний кинотеатр",
     "day": "saturday",
-    "url": "https://t.me/zemunoffline",
+    "url": "https://t.me/mamakudaidem/1950",
     "coords": []
+  },
+  {
+    "name": "Музыкальный МК ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1964",
+    "coords": [
+      {
+        "address": "Teatar Vuk, Beograd",
+        "lat": 44.8037432,
+        "lng": 20.4812779
+      }
+    ]
+  },
+  {
+    "name": "Бесплатные открытые занятия для детей ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1967",
+    "coords": []
+  },
+  {
+    "name": "Театральные выходные в НБ ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1984",
+    "coords": [
+      {
+        "address": "Teatar na Savi, Beograd",
+        "lat": 44.7944978,
+        "lng": 20.3842671
+      }
+    ]
+  },
+  {
+    "name": "Музыкальный фестиваль ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1880",
+    "coords": [
+      {
+        "address": "Ušće Park, Beograd",
+        "lat": 44.8217387,
+        "lng": 20.4327983
+      }
+    ]
+  },
+  {
+    "name": "Песни города ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1987",
+    "coords": []
+  },
+  {
+    "name": "Афиша мероприятий в Таше и Калемегдане ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2022",
+    "coords": [
+      {
+        "address": "Kalemegdan, Beograd",
+        "lat": 44.8233906,
+        "lng": 20.450875
+      },
+      {
+        "address": "Tasmajdan park, Beograd",
+        "lat": 44.8092199,
+        "lng": 20.4705954
+      }
+    ]
+  },
+  {
+    "name": "МК «Браслет дружбы",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1900",
+    "coords": []
+  },
+  {
+    "name": "Программа «Лето на Лидо» ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1994",
+    "coords": [
+      {
+        "address": "Lido, Zemun, Beograd",
+        "lat": 44.8399459,
+        "lng": 20.4249926
+      }
+    ]
+  },
+  {
+    "name": "Детский МК ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1993",
+    "coords": [
+      {
+        "address": "Muzej nauke i tehnike, Beograd",
+        "lat": 44.8219033,
+        "lng": 20.4650942
+      }
+    ]
+  },
+  {
+    "name": "Семейный день в кинотеатре",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/1992",
+    "coords": [
+      {
+        "address": "MTS Dvorana, Beograd",
+        "lat": 44.8132202,
+        "lng": 20.4626291
+      }
+    ]
+  },
+  {
+    "name": "Летний кинотеатр",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1950",
+    "coords": []
+  },
+  {
+    "name": "Творческий МК ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1964",
+    "coords": [
+      {
+        "address": "Teatar Vuk, Beograd",
+        "lat": 44.8037432,
+        "lng": 20.4812779
+      }
+    ]
+  },
+  {
+    "name": "Театральные выходные в НБ ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1984",
+    "coords": [
+      {
+        "address": "Teatar na Savi, Beograd",
+        "lat": 44.7944978,
+        "lng": 20.3842671
+      }
+    ]
+  },
+  {
+    "name": "Музыкальный фестиваль ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1880",
+    "coords": [
+      {
+        "address": "Ušće Park, Beograd",
+        "lat": 44.8217387,
+        "lng": 20.4327983
+      }
+    ]
+  },
+  {
+    "name": "Афиша мероприятий в Таше и Калемегдане ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2026",
+    "coords": [
+      {
+        "address": "Kalemegdan, Beograd",
+        "lat": 44.8233906,
+        "lng": 20.450875
+      },
+      {
+        "address": "Tasmajdan park, Beograd",
+        "lat": 44.8092199,
+        "lng": 20.4705954
+      }
+    ]
+  },
+  {
+    "name": "Морские сказки на песке ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2015",
+    "coords": [
+      {
+        "address": "Kneza Danila 61, Beograd",
+        "lat": 44.8077184,
+        "lng": 20.4805128
+      }
+    ]
+  },
+  {
+    "name": "Программа «Лето на Лидо» ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1994",
+    "coords": [
+      {
+        "address": "Lido, Zemun, Beograd",
+        "lat": 44.8399459,
+        "lng": 20.4249926
+      }
+    ]
+  },
+  {
+    "name": "Семейный день в кинотеатре",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1992",
+    "coords": [
+      {
+        "address": "MTS Dvorana, Beograd",
+        "lat": 44.8132202,
+        "lng": 20.4626291
+      }
+    ]
+  },
+  {
+    "name": "Дино-игры ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/1991",
+    "coords": [
+      {
+        "address": "Prirodnjački centar Srbije, Svilajnac",
+        "lat": 44.2318,
+        "lng": 21.1923
+      }
+    ]
   },
   {
     "name": "Пенная вечеринка",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1813",
-    "coords": []
-  },
-  {
-    "name": "Театральное приключение",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1815",
-    "coords": [
-      {
-        "address": "Dvorana Park, Arandjelovac",
-        "lat": 44.3082,
-        "lng": 20.5574
-      }
-    ]
-  },
-  {
-    "name": "Книжный субботник ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1828",
-    "coords": [
-      {
-        "address": "Gavrila Principa 29, Beograd",
-        "lat": 44.8125036,
-        "lng": 20.4557921
-      }
-    ]
-  },
-  {
-    "name": "Субботний клуб от BeSmart ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1829",
-    "coords": [
-      {
-        "address": "Hadži Milentijeva 78, Beograd",
-        "lat": 44.79437,
-        "lng": 20.4766
-      }
-    ]
-  },
-  {
-    "name": "Как звучит искусство? ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1834",
-    "coords": [
-      {
-        "address": "Muzej savremene umetnosti, Beograd",
-        "lat": 44.8195944,
-        "lng": 20.4424002
-      }
-    ]
-  },
-  {
-    "name": "Фестиваль в парке Воеводе Бойовича ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1835",
-    "coords": [
-      {
-        "address": "Park vojvode Bojovića, Beograd",
-        "lat": 44.8018845,
-        "lng": 20.4753069
-      }
-    ]
-  },
-  {
-    "name": " Расписание активностей в Таше (фестиваль «Белградское лето» ) ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1837",
-    "coords": []
-  },
-  {
-    "name": " Расписание активностей в Калемегдане",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1837",
-    "coords": []
-  },
-  {
-    "name": "Летние игры в парке Топчидер ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1848",
-    "coords": []
-  },
-  {
-    "name": "Лепка из глины + роспись (мама + ребенок) ",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1816",
-    "coords": [
-      {
-        "address": "Claycore, Beograd",
-        "lat": 44.82197,
-        "lng": 20.4707
-      }
-    ]
-  },
-  {
-    "name": "Расписание активностей в Калемегдане",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1837",
-    "coords": []
-  },
-  {
-    "name": "Расписание активностей в Таше",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1837",
-    "coords": []
-  },
-  {
-    "name": "Летние игры в парке Топчидер",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1848",
-    "coords": []
-  },
-  {
-    "name": "Теремок",
-    "day": "sunday",
-    "url": "https://t.me/zemunoffline",
+    "url": "https://t.me/mamakudaidem/1988",
     "coords": []
   }
 ]
