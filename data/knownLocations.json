@@ -88,5 +88,20 @@
     "lat": 44.82197,
     "lng": 20.4707,
     "name": "Claycore"
+  },
+  "crno-bela mačka, beograd": {
+    "lat": 44.8209,
+    "lng": 20.4708,
+    "name": "Crno-bela mačka"
+  },
+  "čuvarak, beograd": {
+    "lat": 44.8296,
+    "lng": 20.4615,
+    "name": "Čuvarak"
+  },
+  "javni akvarijum i tropikarijum beograd, milenka vesnića 3, beograd":{
+    "lat": 44.7844,
+    "lng": 20.4504,
+    "name": "Javni akvarijum i tropikarijum Beograd"
   }
 }
