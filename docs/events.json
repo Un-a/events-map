@@ -3,7 +3,13 @@
     "name": "Летний кинотеатр",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1950",
-    "coords": []
+    "coords": [
+      {
+        "address": "Muzej nauke i tehnike, Beograd",
+        "lat": 44.8219033,
+        "lng": 20.4650942
+      }
+    ]
   },
   {
     "name": "Музыкальный МК ",
@@ -21,7 +27,13 @@
     "name": "Бесплатные открытые занятия для детей ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1967",
-    "coords": []
+    "coords": [
+      {
+        "address": "Crno-bela mačka, Beograd",
+        "lat": 44.8209,
+        "lng": 20.4708
+      }
+    ]
   },
   {
     "name": "Театральные выходные в НБ ",
@@ -42,8 +54,8 @@
     "coords": [
       {
         "address": "Ušće Park, Beograd",
-        "lat": 44.8217387,
-        "lng": 20.4327983
+        "lat": 44.8217441,
+        "lng": 20.4328414
       }
     ]
   },
@@ -74,7 +86,13 @@
     "name": "МК «Браслет дружбы",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/1900",
-    "coords": []
+    "coords": [
+      {
+        "address": "Čuvarak, Beograd",
+        "lat": 44.8296,
+        "lng": 20.4615
+      }
+    ]
   },
   {
     "name": "Программа «Лето на Лидо» ",
@@ -116,7 +134,13 @@
     "name": "Летний кинотеатр",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/1950",
-    "coords": []
+    "coords": [
+      {
+        "address": "Muzej nauke i tehnike, Beograd",
+        "lat": 44.8219033,
+        "lng": 20.4650942
+      }
+    ]
   },
   {
     "name": "Творческий МК ",
@@ -149,8 +173,8 @@
     "coords": [
       {
         "address": "Ušće Park, Beograd",
-        "lat": 44.8217387,
-        "lng": 20.4327983
+        "lat": 44.8217441,
+        "lng": 20.4328414
       }
     ]
   },
@@ -165,7 +189,7 @@
         "lng": 20.450875
       },
       {
-        "address": "Tasmajdan park, Beograd",
+        "address": "Tasmajdan Park, Beograd",
         "lat": 44.8092199,
         "lng": 20.4705954
       }
@@ -223,6 +247,12 @@
     "name": "Пенная вечеринка",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/1988",
-    "coords": []
+    "coords": [
+      {
+        "address": "Javni akvarijum i tropikarijum Beograd, Beograd",
+        "lat": 44.784244,
+        "lng": 20.4503788
+      }
+    ]
   }
 ]
