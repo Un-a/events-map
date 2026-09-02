@@ -1,74 +1,92 @@
 [
   {
-    "name": "Летний кинотеатр",
+    "name": "Спектакль: «Спасение учебного года» ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1950",
+    "url": "https://t.me/mamakudaidem/2050",
     "coords": [
       {
-        "address": "Muzej nauke i tehnike, Beograd",
-        "lat": 44.8219033,
-        "lng": 20.4650942
+        "address": "Aviv Park Zvezdara, Beograd",
+        "lat": 44.7860942,
+        "lng": 20.5144943
       }
     ]
   },
   {
-    "name": "Музыкальный МК ",
+    "name": "Ролевая игра-фест «Сердце леса»  ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1964",
+    "url": "https://t.me/mamakudaidem/2052",
     "coords": [
       {
-        "address": "Teatar Vuk, Beograd",
-        "lat": 44.8037432,
-        "lng": 20.4812779
+        "address": "Ada Ciganlija, Beograd",
+        "lat": 44.7844366,
+        "lng": 20.3810367
       }
     ]
   },
   {
-    "name": "Бесплатные открытые занятия для детей ",
+    "name": "Кулинарный квест ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1967",
+    "url": "https://t.me/mamakudaidem/2057",
     "coords": [
       {
-        "address": "Crno-bela mačka, Beograd",
-        "lat": 44.8209,
-        "lng": 20.4708
+        "address": "Braće Krsmanović 5, Beograd",
+        "lat": 44.8142325,
+        "lng": 20.4506778
       }
     ]
   },
   {
-    "name": "Театральные выходные в НБ ",
+    "name": "Kids-Fest ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1984",
+    "url": "https://t.me/mamakudaidem/2061",
     "coords": [
       {
-        "address": "Teatar na Savi, Beograd",
-        "lat": 44.7944978,
-        "lng": 20.3842671
+        "address": "Port Food Market, Beograd",
+        "lat": 44.8248,
+        "lng": 20.4737
       }
     ]
   },
   {
-    "name": "Музыкальный фестиваль ",
+    "name": "Фестиваль «Brunch u Parku» ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1880",
+    "url": "https://t.me/mamakudaidem/1530",
     "coords": [
       {
-        "address": "Ušće Park, Beograd",
-        "lat": 44.8217441,
-        "lng": 20.4328414
+        "address": "Park prijateljstva, Beograd",
+        "lat": 44.820258,
+        "lng": 20.4371025
       }
     ]
   },
   {
-    "name": "Песни города ",
+    "name": "Летние игры в парке Топчидер ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1987",
-    "coords": []
+    "url": "https://t.me/mamakudaidem/2073",
+    "coords": [
+      {
+        "address": "Topčiderski park, Beograd",
+        "lat": 44.7789483,
+        "lng": 20.4393659
+      }
+    ]
   },
   {
-    "name": "Афиша мероприятий в Таше и Калемегдане ",
+    "name": "МК в игровой «Čuvarak» для детей от 3 до 10 лет ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2022",
+    "url": "https://t.me/mamakudaidem/2075",
+    "coords": [
+      {
+        "address": "Čuvarak, Beograd",
+        "lat": 44.8296,
+        "lng": 20.4615
+      }
+    ]
+  },
+  {
+    "name": "Белградское лето. Таш и Калемегдан ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2079",
     "coords": [
       {
         "address": "Kalemegdan, Beograd",
@@ -83,68 +101,8 @@
     ]
   },
   {
-    "name": "МК «Браслет дружбы",
+    "name": "Музыкальный",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1900",
-    "coords": [
-      {
-        "address": "Čuvarak, Beograd",
-        "lat": 44.8296,
-        "lng": 20.4615
-      }
-    ]
-  },
-  {
-    "name": "Программа «Лето на Лидо» ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1994",
-    "coords": [
-      {
-        "address": "Lido, Zemun, Beograd",
-        "lat": 44.8399459,
-        "lng": 20.4249926
-      }
-    ]
-  },
-  {
-    "name": "Детский МК ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1993",
-    "coords": [
-      {
-        "address": "Muzej nauke i tehnike, Beograd",
-        "lat": 44.8219033,
-        "lng": 20.4650942
-      }
-    ]
-  },
-  {
-    "name": "Семейный день в кинотеатре",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1992",
-    "coords": [
-      {
-        "address": "MTS Dvorana, Beograd",
-        "lat": 44.8132202,
-        "lng": 20.4626291
-      }
-    ]
-  },
-  {
-    "name": "Летний кинотеатр",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1950",
-    "coords": [
-      {
-        "address": "Muzej nauke i tehnike, Beograd",
-        "lat": 44.8219033,
-        "lng": 20.4650942
-      }
-    ]
-  },
-  {
-    "name": "Творческий МК ",
-    "day": "sunday",
     "url": "https://t.me/mamakudaidem/1964",
     "coords": [
       {
@@ -155,33 +113,57 @@
     ]
   },
   {
-    "name": "Театральные выходные в НБ ",
+    "name": "Kids-Fest ",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1984",
+    "url": "https://t.me/mamakudaidem/2061",
     "coords": [
       {
-        "address": "Teatar na Savi, Beograd",
-        "lat": 44.7944978,
-        "lng": 20.3842671
+        "address": "Port Food Market, Beograd",
+        "lat": 44.8248,
+        "lng": 20.4737
       }
     ]
   },
   {
-    "name": "Музыкальный фестиваль ",
+    "name": "Фестиваль «Brunch u Parku» ",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1880",
+    "url": "https://t.me/mamakudaidem/1530",
     "coords": [
       {
-        "address": "Ušće Park, Beograd",
-        "lat": 44.8217441,
-        "lng": 20.4328414
+        "address": "Park prijateljstva, Beograd",
+        "lat": 44.820258,
+        "lng": 20.4371025
       }
     ]
   },
   {
-    "name": "Афиша мероприятий в Таше и Калемегдане ",
+    "name": "Веселые приключения на ферме в песочной студии ",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2026",
+    "url": "https://t.me/mamakudaidem/2068",
+    "coords": [
+      {
+        "address": "Kneza Danila 61, Beograd",
+        "lat": 44.8077184,
+        "lng": 20.4805128
+      }
+    ]
+  },
+  {
+    "name": "Летние игры в парке Топчидер ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2073",
+    "coords": [
+      {
+        "address": "Topčiderski park, Beograd",
+        "lat": 44.7789483,
+        "lng": 20.4393659
+      }
+    ]
+  },
+  {
+    "name": "Белградское лето. Таш и Калемегдан",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2089",
     "coords": [
       {
         "address": "Kalemegdan, Beograd",
@@ -196,62 +178,26 @@
     ]
   },
   {
-    "name": "Морские сказки на песке ",
+    "name": "Спортивный вечер для детей в НБ ",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2015",
+    "url": "https://t.me/mamakudaidem/2099",
     "coords": [
       {
-        "address": "Kneza Danila 61, Beograd",
-        "lat": 44.8077184,
-        "lng": 20.4805128
+        "address": "Stadion FK Radnički, Beograd",
+        "lat": 44.6536685,
+        "lng": 20.2107219
       }
     ]
   },
   {
-    "name": "Программа «Лето на Лидо» ",
+    "name": "Художественный МК",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1994",
+    "url": "https://t.me/mamakudaidem/1964",
     "coords": [
       {
-        "address": "Lido, Zemun, Beograd",
-        "lat": 44.8399459,
-        "lng": 20.4249926
-      }
-    ]
-  },
-  {
-    "name": "Семейный день в кинотеатре",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1992",
-    "coords": [
-      {
-        "address": "MTS Dvorana, Beograd",
-        "lat": 44.8132202,
-        "lng": 20.4626291
-      }
-    ]
-  },
-  {
-    "name": "Дино-игры ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1991",
-    "coords": [
-      {
-        "address": "Prirodnjački centar Srbije, Svilajnac",
-        "lat": 44.2318,
-        "lng": 21.1923
-      }
-    ]
-  },
-  {
-    "name": "Пенная вечеринка",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1988",
-    "coords": [
-      {
-        "address": "Javni akvarijum i tropikarijum Beograd, Beograd",
-        "lat": 44.784244,
-        "lng": 20.4503788
+        "address": "Teatar Vuk, Beograd",
+        "lat": 44.8037432,
+        "lng": 20.4812779
       }
     ]
   }
