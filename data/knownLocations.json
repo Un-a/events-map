@@ -103,5 +103,10 @@
     "lat": 44.7844,
     "lng": 20.4504,
     "name": "Javni akvarijum i tropikarijum Beograd"
+  },
+  "port food market, beograd": {
+    "lat": 44.8248,
+    "lng": 20.4737,
+    "name": "Port Food Market"
   }
 }
