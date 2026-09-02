@@ -1,8 +1,8 @@
 async function fetchWeekendPost(client) {
   const messages = await client.getMessages("mamakudaidem", { limit: 0 });
 
- const weekendPost = messages.find((msg) =>
-  msg.message && /анонс на (эти )?выходные/i.test(msg.message)
+const weekendPost = messages.find((msg) =>
+  msg.message && /(анонс|афиша) на (эти )?выходные/i.test(msg.message)
 );
 
   if (!weekendPost) {
