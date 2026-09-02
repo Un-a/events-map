@@ -1,10 +1,19 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: sans-serif; }
+    body { 
+      font-family: sans-serif;
+      background-color: #edf0d4; 
+    }
     
+    h1 {
+      text-align: center;
+      margin: 20px 0;
+      font-size: 24px;
+    }
     .controls {
       display: flex;
+      justify-content: end;
       gap: 10px;
-      padding: 15px 60px;
+      padding: 15px;
       z-index: 1000;
       position: fixed;
       width: 100%;
@@ -12,24 +21,25 @@
     }
 
     .btn {
-      padding: 6px 15px;
-      border: 1px solid transparent;
+      padding: 10px;
+      border: 2px solid rgba(0,0,0,0.2);
       background: #fff;
-      border-radius: 20px;
+      border-radius: 7px;
       cursor: pointer;
-      font-size: 14px;
+      font-size: 16px;
       transition: all 0.2s;
       outline: none;
     }
 
     .btn:hover {
-      background-color: #eceaea;
-      box-shadow: 0 1px 2px rgba(60, 64, 67, 0.3), 0 2px 6px 2px rgba(60, 64, 67, 0.15);
+      background-color: #f4f4f4;
     }
 
     .btn.active {
-      background-color: #bfdde3;
+      background-color: #202938;
+      border-color: #202938;
       box-shadow: 0 1px 2px rgba(60, 64, 67, 0.3), 0 2px 6px 2px rgba(60, 64, 67, 0.15);
+      color: #fff;
     }
 
     .icon-circle {
@@ -50,5 +60,5 @@
     }
 
     #map {
-      height: 100vh;
+      height: calc(100vh - 68px);
     }
