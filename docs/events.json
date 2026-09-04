@@ -1,92 +1,8 @@
 [
   {
-    "name": "Спектакль: «Спасение учебного года» ",
+    "name": "Афиша мероприятий (Калемегдан и Таш",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2050",
-    "coords": [
-      {
-        "address": "Aviv Park Zvezdara, Beograd",
-        "lat": 44.7860942,
-        "lng": 20.5144943
-      }
-    ]
-  },
-  {
-    "name": "Ролевая игра-фест «Сердце леса»  ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2052",
-    "coords": [
-      {
-        "address": "Ada Ciganlija, Beograd",
-        "lat": 44.7844366,
-        "lng": 20.3810367
-      }
-    ]
-  },
-  {
-    "name": "Кулинарный квест ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2057",
-    "coords": [
-      {
-        "address": "Braće Krsmanović 5, Beograd",
-        "lat": 44.8142325,
-        "lng": 20.4506778
-      }
-    ]
-  },
-  {
-    "name": "Kids-Fest ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2061",
-    "coords": [
-      {
-        "address": "Port Food Market, Beograd",
-        "lat": 44.8248,
-        "lng": 20.4737
-      }
-    ]
-  },
-  {
-    "name": "Фестиваль «Brunch u Parku» ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1530",
-    "coords": [
-      {
-        "address": "Park prijateljstva, Beograd",
-        "lat": 44.820258,
-        "lng": 20.4371025
-      }
-    ]
-  },
-  {
-    "name": "Летние игры в парке Топчидер ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2073",
-    "coords": [
-      {
-        "address": "Topčiderski park, Beograd",
-        "lat": 44.7789483,
-        "lng": 20.4393659
-      }
-    ]
-  },
-  {
-    "name": "МК в игровой «Čuvarak» для детей от 3 до 10 лет ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2075",
-    "coords": [
-      {
-        "address": "Čuvarak, Beograd",
-        "lat": 44.8296,
-        "lng": 20.4615
-      }
-    ]
-  },
-  {
-    "name": "Белградское лето. Таш и Калемегдан ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2079",
+    "url": "https://t.me/mamakudaidem/2162",
     "coords": [
       {
         "address": "Kalemegdan, Beograd",
@@ -101,69 +17,51 @@
     ]
   },
   {
-    "name": "Музыкальный",
+    "name": "Расписание интерактивной выставки ",
     "day": "saturday",
-    "url": "https://t.me/mamakudaidem/1964",
+    "url": "https://t.me/mamakudaidem/2158",
+    "coords": []
+  },
+  {
+    "name": "Вокальный ансамбль «Струны души» ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2151",
     "coords": [
       {
-        "address": "Teatar Vuk, Beograd",
-        "lat": 44.8037432,
-        "lng": 20.4812779
+        "address": "Džordža Vašingtona 30, Beograd",
+        "lat": 44.8159831,
+        "lng": 20.4695205
       }
     ]
   },
   {
-    "name": "Kids-Fest ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2061",
+    "name": " Бесплатная встреча психолога  с родителями",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2077",
+    "coords": []
+  },
+  {
+    "name": "Рыцарский фест ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2145",
     "coords": [
       {
-        "address": "Port Food Market, Beograd",
-        "lat": 44.8248,
-        "lng": 20.4737
+        "address": "Kalemegdan, Beograd",
+        "lat": 44.8233906,
+        "lng": 20.450875
       }
     ]
   },
   {
-    "name": "Фестиваль «Brunch u Parku» ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1530",
-    "coords": [
-      {
-        "address": "Park prijateljstva, Beograd",
-        "lat": 44.820258,
-        "lng": 20.4371025
-      }
-    ]
+    "name": "Бесплатные занятия для детей от 3 до 12 лет ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2140",
+    "coords": []
   },
   {
-    "name": "Веселые приключения на ферме в песочной студии ",
+    "name": "Афиша мероприятий (Калемегдан и Таш) ",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2068",
-    "coords": [
-      {
-        "address": "Kneza Danila 61, Beograd",
-        "lat": 44.8077184,
-        "lng": 20.4805128
-      }
-    ]
-  },
-  {
-    "name": "Летние игры в парке Топчидер ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2073",
-    "coords": [
-      {
-        "address": "Topčiderski park, Beograd",
-        "lat": 44.7789483,
-        "lng": 20.4393659
-      }
-    ]
-  },
-  {
-    "name": "Белградское лето. Таш и Калемегдан",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2089",
+    "url": "https://t.me/mamakudaidem/2167",
     "coords": [
       {
         "address": "Kalemegdan, Beograd",
@@ -178,27 +76,75 @@
     ]
   },
   {
-    "name": "Спортивный вечер для детей в НБ ",
+    "name": "Рыцарский фест",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2099",
+    "url": "https://t.me/mamakudaidem/2145",
     "coords": [
       {
-        "address": "Stadion FK Radnički, Beograd",
-        "lat": 44.6536685,
-        "lng": 20.2107219
+        "address": "Kalemegdan, Beograd",
+        "lat": 44.8233906,
+        "lng": 20.450875
       }
     ]
   },
   {
-    "name": "Художественный МК",
+    "name": "Фестиваль загадок и творчества ",
     "day": "sunday",
-    "url": "https://t.me/mamakudaidem/1964",
+    "url": "https://t.me/mamakudaidem/2101",
     "coords": [
       {
-        "address": "Teatar Vuk, Beograd",
-        "lat": 44.8037432,
-        "lng": 20.4812779
+        "address": "Hektorovićeva 12, Beograd",
+        "lat": 44.7955642,
+        "lng": 20.5022091
       }
     ]
+  },
+  {
+    "name": "Бесплатный просмотр мультфильма ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2134",
+    "coords": []
+  },
+  {
+    "name": "День открытых дверей в Roller Land",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2132",
+    "coords": []
+  },
+  {
+    "name": "6",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2132",
+    "coords": []
+  },
+  {
+    "name": "Семейное утро в музее  ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2131",
+    "coords": [
+      {
+        "address": "Muzej Jugoslavije, Beograd",
+        "lat": 44.7880195,
+        "lng": 20.4523144
+      }
+    ]
+  },
+  {
+    "name": "Фестиваль «Пикник» ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2125",
+    "coords": [
+      {
+        "address": "Muzej afričke umetnosti, Beograd",
+        "lat": 44.7891148,
+        "lng": 20.4350409
+      }
+    ]
+  },
+  {
+    "name": "Сырник-party",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2108",
+    "coords": []
   }
 ]
