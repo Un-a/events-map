@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Мероприятия на выходные</title>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
   <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
@@ -12,80 +11,16 @@
   <div class="controls">
     <button class="btn" id="btn-saturday" onclick="showDay('saturday')"><span class="icon-circle icon-red"></span> Сб</button>
     <button class="btn" id="btn-sunday" onclick="showDay('sunday')"><span class="icon-circle icon-blue"></span> Вс</button>
-    <button class="btn active" id="btn-all" onclick="showDay('all')">Все</button>
+    <button class="btn active" id="btn-all" onclick="showDay('all')"><span class="icon-circle icon-red"></span> <span class="icon-circle icon-blue"></span> Все</button>
   </div>
-<div id="map"></div>
+  <div id="map"></div>
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script>
-  const map = L.map('map', {
-    zoomControl: false
-  }).setView([44.8176, 20.4569], 12);
-  L.control.zoom({
-    position: 'bottomright'
-  }).addTo(map);
+  <div id="bottom-sheet" class="bottom-sheet">
+    <button class="bottom-sheet-close" onclick="closeBottomSheet()">✕</button>
+    <div class="bottom-sheet-content"></div>
+  </div>
 
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors'
-  }).addTo(map);
-
-  const colors = {
-    saturday: '#e63946',
-    sunday: '#457b9d'
-  };
-
-  function makeIcon(day) {
-    return L.divIcon({
-      className: '',
-      html: `<div style="
-        width: 14px; height: 14px;
-        background: ${colors[day]};
-        border: 2px solid #fff;
-        border-radius: 50%;
-        box-shadow: 0 1px 4px rgba(0,0,0,0.4);
-      "></div>`,
-      iconSize: [14, 14],
-      iconAnchor: [7, 7],
-    });
-  }
-
-  let markers = [];
-
-  fetch('./events.json')
-    .then(r => r.json())
-    .then(events => {
-      events.forEach(event => {
-        event.coords.forEach(coord => {
-          const marker = L.marker([coord.lat, coord.lng], {
-            icon: makeIcon(event.day)
-          });
-
-          marker.bindPopup(`
-            <strong>${event.name.trim()}</strong><br>
-            📍 ${coord.address}<br>
-            <a href="${event.url}" target="_blank">Подробнее →</a><br>
-            <a href="https://www.google.com/maps/search/?api=1&query=${coord.lat},${coord.lng}" target="_blank">Google Maps →</a>
-          `);
-
-          marker.day = event.day;
-          markers.push(marker);
-          marker.addTo(map);
-        });
-      });
-    });
-
-  function showDay(day) {
-    document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
-    document.getElementById(`btn-${day}`).classList.add('active');
-
-    markers.forEach(marker => {
-      if (day === 'all' || marker.day === day) {
-        marker.addTo(map);
-      } else {
-        marker.remove();
-      }
-    });
-  }
-</script>
+  <script src="https://api-maps.yandex.ru/2.1/?apikey=YOUR_API_KEY&lang=ru_RU"></script>
+  <script src="map.js"></script>
 </body>
 </html>
