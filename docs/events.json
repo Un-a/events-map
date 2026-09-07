@@ -20,7 +20,13 @@
     "name": "Расписание интерактивной выставки ",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/2158",
-    "coords": []
+    "coords": [
+      {
+        "address": "Auditoria, Vojvode Dobrnjca 48, Beograd",
+        "lat": 44.8188856,
+        "lng": 20.4748694
+      }
+    ]
   },
   {
     "name": "Вокальный ансамбль «Струны души» ",
@@ -38,7 +44,13 @@
     "name": " Бесплатная встреча психолога  с родителями",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/2077",
-    "coords": []
+    "coords": [
+      {
+        "address": "Teritorija mojih otkrića, Beograd",
+        "lat": 44.8188,
+        "lng": 20.4746
+      }
+    ]
   },
   {
     "name": "Рыцарский фест ",
@@ -103,19 +115,25 @@
     "name": "Бесплатный просмотр мультфильма ",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/2134",
-    "coords": []
+    "coords": [
+      {
+        "address": "Sportsko-kulturni centar Sumice, Beograd",
+        "lat": 44.7846,
+        "lng": 20.4904
+      }
+    ]
   },
   {
     "name": "День открытых дверей в Roller Land",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/2132",
-    "coords": []
-  },
-  {
-    "name": "6",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2132",
-    "coords": []
+    "coords": [
+      {
+        "address": "Roller Land, Milana Rakića 114, Beograd",
+        "lat": 44.79188,
+        "lng": 20.518504
+      }
+    ]
   },
   {
     "name": "Семейное утро в музее  ",
@@ -145,6 +163,12 @@
     "name": "Сырник-party",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/2108",
-    "coords": []
+    "coords": [
+      {
+        "address": "Be Smart, Hadži Milentijeva 78, Beograd",
+        "lat": 44.79437,
+        "lng": 20.4766
+      }
+    ]
   }
 ]

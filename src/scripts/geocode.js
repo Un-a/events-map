@@ -12,29 +12,39 @@ async function geocode(address) {
     return { lat, lng };
   }
 
+  const result = await fetchNominatim(address);
+  if (result) return result;
+
+  const withoutName = address.split(",").slice(1).join(",").trim();
+  const hasEnoughInfo = withoutName.split(",").length >= 2;
+
+  if (withoutName && withoutName !== address && hasEnoughInfo) {
+    const fallbackResult = await fetchNominatim(withoutName);
+    if (fallbackResult) return fallbackResult;
+  }
+
+  unresolvedAddresses.push(address);
+  return null;
+}
+
+async function fetchNominatim(query) {
   try {
-    const query = encodeURIComponent(address);
-    const url = `https://nominatim.openstreetmap.org/search?q=${query}&format=json&limit=1`;
+    const q = encodeURIComponent(query);
+    const url = `https://nominatim.openstreetmap.org/search?q=${q}&format=json&limit=1`;
 
     const response = await fetch(url, {
-      headers: {
-        "User-Agent": "events-map-belgrade/1.0"
-      }
+      headers: { "User-Agent": "events-map-belgrade/1.0" }
     });
 
     const data = await response.json();
-
-    if (data.length === 0) {
-      unresolvedAddresses.push(address);
-      return null;
-    }
+    if (data.length === 0) return null;
 
     return {
       lat: parseFloat(data[0].lat),
       lng: parseFloat(data[0].lon)
     };
   } catch (error) {
-    console.error(`Ошибка геокодинга для "${address}":`, error.message);
+    console.error(`Ошибка геокодинга для "${query}":`, error.message);
     return null;
   }
 }

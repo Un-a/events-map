@@ -95,18 +95,23 @@
     "name": "Crno-bela mačka"
   },
   "čuvarak, beograd": {
-    "lat": 44.8296,
-    "lng": 20.4615,
+    "lat": 44.8291,
+    "lng": 20.461469,
     "name": "Čuvarak"
-  },
-  "javni akvarijum i tropikarijum beograd, milenka vesnića 3, beograd":{
-    "lat": 44.7844,
-    "lng": 20.4504,
-    "name": "Javni akvarijum i tropikarijum Beograd"
   },
   "port food market, beograd": {
     "lat": 44.8248,
     "lng": 20.4737,
     "name": "Port Food Market"
+  },
+  "teritorija mojih otkrića, beograd": {
+    "lat": 44.8188,
+    "lng": 20.4746,
+    "name": "Teritorija mojih otkrića"
+  },
+  "sportsko-kulturni centar Šumice, beograd": {
+    "lat": 44.7846,
+    "lng": 20.4904,
+    "name": "Sportsko-kulturni centar Šumice"
   }
 }
