@@ -1,179 +1,18 @@
 [
   {
-    "name": "Афиша мероприятий (Калемегдан и Таш",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2162",
+    "name": "Тык-тык",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2253",
     "coords": [
-      {
-        "address": "Kalemegdan, Beograd",
-        "lat": 44.8233906,
-        "lng": 20.450875
-      },
       {
         "address": "Tasmajdan park, Beograd",
         "lat": 44.8092199,
         "lng": 20.4705954
-      }
-    ]
-  },
-  {
-    "name": "Расписание интерактивной выставки ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2158",
-    "coords": [
-      {
-        "address": "Auditoria, Vojvode Dobrnjca 48, Beograd",
-        "lat": 44.8188856,
-        "lng": 20.4748694
-      }
-    ]
-  },
-  {
-    "name": "Вокальный ансамбль «Струны души» ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2151",
-    "coords": [
-      {
-        "address": "Džordža Vašingtona 30, Beograd",
-        "lat": 44.8159831,
-        "lng": 20.4695205
-      }
-    ]
-  },
-  {
-    "name": " Бесплатная встреча психолога  с родителями",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2077",
-    "coords": [
-      {
-        "address": "Teritorija mojih otkrića, Beograd",
-        "lat": 44.8188,
-        "lng": 20.4746
-      }
-    ]
-  },
-  {
-    "name": "Рыцарский фест ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2145",
-    "coords": [
-      {
-        "address": "Kalemegdan, Beograd",
-        "lat": 44.8233906,
-        "lng": 20.450875
-      }
-    ]
-  },
-  {
-    "name": "Бесплатные занятия для детей от 3 до 12 лет ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2140",
-    "coords": []
-  },
-  {
-    "name": "Афиша мероприятий (Калемегдан и Таш) ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2167",
-    "coords": [
-      {
-        "address": "Kalemegdan, Beograd",
-        "lat": 44.8233906,
-        "lng": 20.450875
       },
       {
-        "address": "Tasmajdan Park, Beograd",
-        "lat": 44.8092199,
-        "lng": 20.4705954
-      }
-    ]
-  },
-  {
-    "name": "Рыцарский фест",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2145",
-    "coords": [
-      {
         "address": "Kalemegdan, Beograd",
         "lat": 44.8233906,
         "lng": 20.450875
-      }
-    ]
-  },
-  {
-    "name": "Фестиваль загадок и творчества ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2101",
-    "coords": [
-      {
-        "address": "Hektorovićeva 12, Beograd",
-        "lat": 44.7955642,
-        "lng": 20.5022091
-      }
-    ]
-  },
-  {
-    "name": "Бесплатный просмотр мультфильма ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2134",
-    "coords": []
-  },
-  {
-    "name": "День открытых дверей в Roller Land",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2132",
-    "coords": [
-      {
-        "address": "Roller Land, Milana Rakića 114, Beograd",
-        "lat": 44.7918752,
-        "lng": 20.5181942
-      }
-    ]
-  },
-  {
-    "name": "6",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2132",
-    "coords": [
-      {
-        "address": "Roller Land, Milana Rakića 114, Beograd",
-        "lat": 44.7918752,
-        "lng": 20.5181942
-      }
-    ]
-  },
-  {
-    "name": "Семейное утро в музее  ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2131",
-    "coords": [
-      {
-        "address": "Muzej Jugoslavije, Beograd",
-        "lat": 44.7880195,
-        "lng": 20.4523144
-      }
-    ]
-  },
-  {
-    "name": "Фестиваль «Пикник» ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2125",
-    "coords": [
-      {
-        "address": "Muzej afričke umetnosti, Beograd",
-        "lat": 44.7891148,
-        "lng": 20.4350409
-      }
-    ]
-  },
-  {
-    "name": "Сырник-party",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2108",
-    "coords": [
-      {
-        "address": "Be Smart, Hadži Milentijeva 78, Beograd",
-        "lat": 44.79437,
-        "lng": 20.4766
       }
     ]
   }
