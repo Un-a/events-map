@@ -2,7 +2,7 @@
 
 An interactive map of family-friendly events in Belgrade and nearby areas (Serbia).
 
-The application automatically collects weekend event information from the Russian-language Telegram channel [“Мама, куда идём сегодня”](https://t.me/mamakudaidem) (“Mom, where are we going today?”), extracts event venues using Google Gemini, finds their coordinates via OpenStreetMap, and displays them on an interactive map.
+The application automatically collects weekend event information from the Russian-language Telegram channel [“Мама, куда идём сегодня”](https://t.me/mamakudaidem) (“Mom, where are we going today?”), extracts event venues using Google Gemini, finds their coordinates via OpenStreetMap, and displays them on an interactive map powered by Yandex Maps.
 
 ## Demo
 
@@ -13,7 +13,7 @@ The application automatically collects weekend event information from the Russia
 ## Features
 
 * Interactive map with event markers
-* Event details displayed in popups
+* Event details displayed in popups (desktop) or a bottom sheet (mobile)
 * Direct link to the original Telegram post
 * Google Maps link for each event location
 * Filter events by day: **Saturday / Sunday / All**
@@ -43,13 +43,15 @@ The processed information is saved as `events.json`, which is used by the fronte
 
 ### 5. Displaying Events
 
-The frontend uses **Leaflet** and **OpenStreetMap** to display the events on an interactive map.
+The frontend uses the **Yandex Maps JavaScript API** to display the events on an interactive map. Coordinates are still sourced from Nominatim/OpenStreetMap — Yandex Maps is used purely as the rendering layer.
 
 Each marker provides:
 
 * event name;
 * link to the original Telegram post;
 * link to the location in Google Maps.
+
+On mobile devices, tapping a marker opens a bottom sheet instead of the standard map popup for easier one-handed use.
 
 ### 6. Automatic Updates
 
@@ -67,8 +69,7 @@ A **GitHub Actions** workflow runs every Friday, executes the data collection pi
 ### Frontend
 
 * **JavaScript**
-* **Leaflet.js**
-* **OpenStreetMap**
+* **Yandex Maps JavaScript API** — map rendering
 
 ### Infrastructure
 

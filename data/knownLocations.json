@@ -79,6 +79,11 @@
     "lng": 20.4766,
     "name": "Хаджи Милентьева, 78, Be Smart"
   },
+    "be smart, hadži milentijeva 78, beograd": {
+    "lat": 44.79437,
+    "lng": 20.4766,
+    "name": "Хаджи Милентьева, 78, Be Smart"
+  },
   "konak kneza miloša, topčiderski park, beograd": {
     "lat": 44.7807,
     "lng": 20.4424,
@@ -109,7 +114,12 @@
     "lng": 20.4746,
     "name": "Teritorija mojih otkrića"
   },
-  "sportsko-kulturni centar Šumice, beograd": {
+  "sportsko-kulturni centar šumice, beograd": {
+    "lat": 44.7846,
+    "lng": 20.4904,
+    "name": "Sportsko-kulturni centar Šumice"
+  },
+  "sportsko-kulturni centar sumice, beograd": {
     "lat": 44.7846,
     "lng": 20.4904,
     "name": "Sportsko-kulturni centar Šumice"

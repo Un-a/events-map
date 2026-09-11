@@ -115,13 +115,7 @@
     "name": "Бесплатный просмотр мультфильма ",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/2134",
-    "coords": [
-      {
-        "address": "Sportsko-kulturni centar Sumice, Beograd",
-        "lat": 44.7846,
-        "lng": 20.4904
-      }
-    ]
+    "coords": []
   },
   {
     "name": "День открытых дверей в Roller Land",
@@ -130,8 +124,20 @@
     "coords": [
       {
         "address": "Roller Land, Milana Rakića 114, Beograd",
-        "lat": 44.79188,
-        "lng": 20.518504
+        "lat": 44.7918752,
+        "lng": 20.5181942
+      }
+    ]
+  },
+  {
+    "name": "6",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2132",
+    "coords": [
+      {
+        "address": "Roller Land, Milana Rakića 114, Beograd",
+        "lat": 44.7918752,
+        "lng": 20.5181942
       }
     ]
   },
