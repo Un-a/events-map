@@ -1,19 +1,246 @@
 [
   {
-    "name": "Тык-тык",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2253",
+    "name": "Веселые нотки (2-,5-4 года) ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2175",
+    "coords": []
+  },
+  {
+    "name": "Читакль",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2191",
     "coords": [
       {
-        "address": "Tasmajdan park, Beograd",
-        "lat": 44.8092199,
-        "lng": 20.4705954
-      },
+        "address": "Bela Vrana, Beograd",
+        "lat": 44.8124662,
+        "lng": 20.455659
+      }
+    ]
+  },
+  {
+    "name": "Спектакль «Красная шапочка», «Сказка о рыбаке и рыбке» ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2196",
+    "coords": [
+      {
+        "address": "Pozorište lutaka Pinokio, Beograd",
+        "lat": 44.8301274,
+        "lng": 20.411863
+      }
+    ]
+  },
+  {
+    "name": "Столярная мастерская ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2208",
+    "coords": []
+  },
+  {
+    "name": "Продленка в Be Smart ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2214",
+    "coords": []
+  },
+  {
+    "name": "Космическая станция в ВЕО ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2215",
+    "coords": [
+      {
+        "address": "BEO Shopping Center, Beograd",
+        "lat": 44.7867322,
+        "lng": 20.5025585
+      }
+    ]
+  },
+  {
+    "name": "Бесплатные занятия в театральной студии ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2218",
+    "coords": []
+  },
+  {
+    "name": "Бранч для мам с детьми ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2219",
+    "coords": []
+  },
+  {
+    "name": "Бесплатные МК для детей в НБ ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2220",
+    "coords": [
+      {
+        "address": "Novobeogradska kulturna mreža, Jurija Gagarina 221, Beograd",
+        "lat": 44.7974825,
+        "lng": 20.3776334
+      }
+    ]
+  },
+  {
+    "name": "Бесплатный спектакль для детей (6-9 лет) ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2224",
+    "coords": [
+      {
+        "address": "Biblioteka Bora Stanković, Beograd",
+        "lat": 44.8111493,
+        "lng": 20.4564066
+      }
+    ]
+  },
+  {
+    "name": "Бесплатные занятия по легкой атлетике ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2229",
+    "coords": [
+      {
+        "address": "Bulevar oslobođenja 54, Beograd",
+        "lat": 44.7739244,
+        "lng": 20.4720197
+      }
+    ]
+  },
+  {
+    "name": "Бесплатный спектакль в «Шумице",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2230",
+    "coords": [
+      {
+        "address": "Ustanicka 125/1, Beograd",
+        "lat": 44.7848906,
+        "lng": 20.4896764
+      }
+    ]
+  },
+  {
+    "name": "Программа для детей в Таше и Калемегдане",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2231",
+    "coords": [
       {
         "address": "Kalemegdan, Beograd",
         "lat": 44.8233906,
         "lng": 20.450875
+      },
+      {
+        "address": "Tasmajdan park, Beograd",
+        "lat": 44.8092199,
+        "lng": 20.4705954
       }
     ]
+  },
+  {
+    "name": "Творческая мастерская для детей «Зеленая архитектура» ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2244",
+    "coords": [
+      {
+        "address": "Likovna galerija, Beograd",
+        "lat": 44.8153862,
+        "lng": 20.4597822
+      }
+    ]
+  },
+  {
+    "name": "Успеть до школы (от 5 лет) ",
+    "day": "saturday",
+    "url": "https://t.me/mamakudaidem/2249",
+    "coords": [
+      {
+        "address": "Bulevar despota Stefana 7, Beograd",
+        "lat": 44.8167328,
+        "lng": 20.4644171
+      }
+    ]
+  },
+  {
+    "name": "Веселые нотки ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2175",
+    "coords": []
+  },
+  {
+    "name": "Пена-пати ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2206",
+    "coords": [
+      {
+        "address": "Javni akvarijum i tropikarijum Beograd, Beograd",
+        "lat": 44.784244,
+        "lng": 20.4503788
+      }
+    ]
+  },
+  {
+    "name": "Столярная мастерская",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2209",
+    "coords": []
+  },
+  {
+    "name": "МК и концерт для детей  ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2117",
+    "coords": []
+  },
+  {
+    "name": "Космическая станция в ВЕО ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2215",
+    "coords": [
+      {
+        "address": "BEO Shopping Center, Beograd",
+        "lat": 44.7867322,
+        "lng": 20.5025585
+      }
+    ]
+  },
+  {
+    "name": "Бесплатные МК для детей в НБ ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2220",
+    "coords": [
+      {
+        "address": "Novobeogradska kulturna mreža, Jurija Gagarina 221, Beograd",
+        "lat": 44.7974825,
+        "lng": 20.3776334
+      }
+    ]
+  },
+  {
+    "name": "МК,  игры, фокусы, встреча с Свинкой Пеппой ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2225",
+    "coords": [
+      {
+        "address": "Keltsko selo, Indjija",
+        "lat": 45.0542339,
+        "lng": 20.0642598
+      }
+    ]
+  },
+  {
+    "name": "Программа детских активностей в Таше и Калемегдане ",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2234",
+    "coords": [
+      {
+        "address": "Kalemegdan, Beograd",
+        "lat": 44.8233906,
+        "lng": 20.450875
+      },
+      {
+        "address": "Tasmajdan park, Beograd",
+        "lat": 44.8092199,
+        "lng": 20.4705954
+      }
+    ]
+  },
+  {
+    "name": "Встреча для родителей «Чему учить ребенка, если непонятно какие профессии останутся",
+    "day": "sunday",
+    "url": "https://t.me/mamakudaidem/2250",
+    "coords": []
   }
 ]
