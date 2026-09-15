@@ -11,7 +11,7 @@ function findDayIndices(text) {
 }
 
 async function fetchWeekendPost(client) {
-  const messages = await client.getMessages("mamakudaidem", { limit: 20 });
+  const messages = await client.getMessages("mamakudaidem", { limit: 30 });
 
   const weekendPost = messages.find((msg) => isRealWeekendPost(msg));
 
