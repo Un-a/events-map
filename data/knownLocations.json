@@ -84,7 +84,7 @@
     "lng": 20.4766,
     "name": "Хаджи Милентьева, 78, Be Smart"
   },
-  "Be Smart, Beograd": {
+  "be smart, beograd": {
     "lat": 44.79437,
     "lng": 20.4766,
     "name": "Хаджи Милентьева, 78, Be Smart"
@@ -128,5 +128,40 @@
     "lat": 44.7846,
     "lng": 20.4904,
     "name": "Sportsko-kulturni centar Šumice"
+  },
+  "stolart, beograd": {
+    "lat": 44.795589,
+    "lng": 20.502205,
+    "name": "StolArt"
+  },
+  "nashe mesto vracar, beograd": {
+    "lat": 44.794252,
+    "lng": 20.486933,
+    "name": "Nashe Mesto Vracar"
+  },
+  "hobbit house, beograd": {
+    "lat": 44.8138,
+    "lng": 20.4764,
+    "name": "Hobbit House"
+  },
+  "sense-s.space, beograd": {
+    "lat": 44.814704,
+    "lng": 20.462255,
+    "name": "SENSE—S.SPACE"
+  },
+  "Djordja Washingtona 30, Beograd": {
+    "lat": 44.81611,
+    "lng": 20.4695,
+    "name": "Strune duše"
+  },
+  "teremok, beograd": {
+    "lat": 44.835600,
+    "lng": 20.407481,
+    "name": "Teremok"
+  },
+  "novi beograd, beograd": {
+    "lat": 44.8025,
+    "lng": 20.3722,
+    "name": "Cirkus, Blok 61"
   }
 }

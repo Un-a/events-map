@@ -125,9 +125,9 @@
     "url": "https://t.me/mamakudaidem/2314",
     "coords": [
       {
-        "address": "Novi Beograd, Beograd",
-        "lat": 44.8133048,
-        "lng": 20.4183382
+        "address": "Cirkus, Blok 61, Beograd",
+        "lat": 44.8025,
+        "lng": 20.3722
       }
     ]
   },
@@ -135,7 +135,13 @@
     "name": "Ночевка + столярка",
     "day": "saturday",
     "url": "https://t.me/mamakudaidem/2319",
-    "coords": []
+    "coords": [
+      {
+        "address": "Teremok, Beograd",
+        "lat": 44.8356,
+        "lng": 20.407481
+      }
+    ]
   },
   {
     "name": "Программа посвященная летучим мышам ",
@@ -203,9 +209,9 @@
     "url": "https://t.me/mamakudaidem/2314",
     "coords": [
       {
-        "address": "Novi Beograd, Beograd",
-        "lat": 44.8133048,
-        "lng": 20.4183382
+        "address": "Cirkus, Blok 61, Beograd",
+        "lat": 44.8025,
+        "lng": 20.3722
       }
     ]
   },
@@ -213,6 +219,12 @@
     "name": "Спектакль на русском языке «Как Маша уснуть не смогла",
     "day": "sunday",
     "url": "https://t.me/mamakudaidem/2114",
-    "coords": []
+    "coords": [
+      {
+        "address": "Be Smart, Beograd",
+        "lat": 44.79437,
+        "lng": 20.4766
+      }
+    ]
   }
 ]
