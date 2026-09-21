@@ -153,5 +153,15 @@
     "lat": 44.81611,
     "lng": 20.4695,
     "name": "Strune duše"
+  },
+  "teremok, beograd": {
+    "lat": 44.835600,
+    "lng": 20.407481,
+    "name": "Teremok"
+  },
+  "novi beograd, beograd": {
+    "lat": 44.8025,
+    "lng": 20.3722,
+    "name": "Cirkus, Blok 61"
   }
 }

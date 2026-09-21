@@ -74,7 +74,7 @@ function loadEvents() {
             placemark.properties.set({
               balloonContentHeader: filteredGroup.items.length > 1
                 ? `${filteredGroup.items.length} мероприятия по этому адресу`
-                : `<strong>${filteredGroup.items[0].name}</strong>`,
+                : `Мероприятие по этому адресу`,
               balloonContentBody: buildEventsListHtml(filteredGroup)
             });
             placemark.balloon.open();
@@ -92,8 +92,6 @@ function filterGroupByDay(group, day) {
   return { ...group, items: group.items.filter(item => item.day === day) };
 }
 
-// Если выбран конкретный день и в точке есть событие на этот день — красим в его цвет,
-// иначе (фильтр "Все" или день не совпал) берём первый день группы
 function iconColorForDay(days, day) {
   return day !== 'all' && days.includes(day) ? day : days[0];
 }
