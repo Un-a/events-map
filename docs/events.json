@@ -1,230 +1,236 @@
-[
-  {
-    "name": "Книжный субботник",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2268",
-    "coords": [
-      {
-        "address": "Bela Vrana, Beograd",
-        "lat": 44.8124662,
-        "lng": 20.455659
-      }
-    ]
+{
+  "dates": {
+    "saturday": "19 сентября",
+    "sunday": "20 сентября"
   },
-  {
-    "name": "Детская ярмарка Lilly Junior ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2284",
-    "coords": [
-      {
-        "address": "Savski park, Beograd",
-        "lat": 44.8049882,
-        "lng": 20.4515213
-      }
-    ]
-  },
-  {
-    "name": "На велосипеде в школу» ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2288",
-    "coords": [
-      {
-        "address": "BIG Zrenjanin, Zrenjanin",
-        "lat": 45.3777377,
-        "lng": 20.3539074
-      }
-    ]
-  },
-  {
-    "name": "Пробное занятие по робототехнике ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2228",
-    "coords": [
-      {
-        "address": "Kneza Danila 61, Beograd",
-        "lat": 44.8077184,
-        "lng": 20.4805128
-      }
-    ]
-  },
-  {
-    "name": "Программа мероприятий в Ташмайдане",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2298",
-    "coords": [
-      {
-        "address": "Tašmajdan Park, Beograd",
-        "lat": 44.8092199,
-        "lng": 20.4705954
-      }
-    ]
-  },
-  {
-    "name": "Творческая мастерская ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2300",
-    "coords": [
-      {
-        "address": "CineStar Cinemas, Ada Mall, Beograd",
-        "lat": 44.786928,
-        "lng": 20.4185676
-      }
-    ]
-  },
-  {
-    "name": "Спектакль на русском языке «Чемодан» ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2221",
-    "coords": [
-      {
-        "address": "Svetogorska 46, Beograd",
-        "lat": 44.8127427,
-        "lng": 20.4697948
-      }
-    ]
-  },
-  {
-    "name": "Танцевальный МК",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2302",
-    "coords": [
-      {
-        "address": "Aviv Park Zvezdara, Beograd",
-        "lat": 44.7860942,
-        "lng": 20.5144943
-      }
-    ]
-  },
-  {
-    "name": "Винни-Пух» - спектакль в кукольном театре ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2198",
-    "coords": [
-      {
-        "address": "Pozorište lutaka Pinokio, Beograd",
-        "lat": 44.8301274,
-        "lng": 20.411863
-      }
-    ]
-  },
-  {
-    "name": "Фестиваль сладостей ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2310",
-    "coords": [
-      {
-        "address": "Mercator Centar, Beograd",
-        "lat": 44.8206513,
-        "lng": 20.4142399
-      }
-    ]
-  },
-  {
-    "name": "Цирк",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2314",
-    "coords": [
-      {
-        "address": "Cirkus, Blok 61, Beograd",
-        "lat": 44.8025,
-        "lng": 20.3722
-      }
-    ]
-  },
-  {
-    "name": "Ночевка + столярка",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2319",
-    "coords": [
-      {
-        "address": "Teremok, Beograd",
-        "lat": 44.8356,
-        "lng": 20.407481
-      }
-    ]
-  },
-  {
-    "name": "Программа посвященная летучим мышам ",
-    "day": "saturday",
-    "url": "https://t.me/mamakudaidem/2321",
-    "coords": [
-      {
-        "address": "Biblioteka grada Beograda, Beograd",
-        "lat": 44.8200202,
-        "lng": 20.4534502
-      }
-    ]
-  },
-  {
-    "name": "Детская ярмарка Lilly Junior ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2284",
-    "coords": [
-      {
-        "address": "Savski park, Beograd",
-        "lat": 44.8049882,
-        "lng": 20.4515213
-      }
-    ]
-  },
-  {
-    "name": "Программа мероприятий в Ташмайдане ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2299",
-    "coords": [
-      {
-        "address": "Tašmajdan Park, Beograd",
-        "lat": 44.8092199,
-        "lng": 20.4705954
-      }
-    ]
-  },
-  {
-    "name": "Творческая мастерская ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2300",
-    "coords": [
-      {
-        "address": "CineStar Cinemas, Ada Mall, Beograd",
-        "lat": 44.786928,
-        "lng": 20.4185676
-      }
-    ]
-  },
-  {
-    "name": "Фестиваль сладостей ",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2310",
-    "coords": [
-      {
-        "address": "Mercator Centar, Beograd",
-        "lat": 44.8206513,
-        "lng": 20.4142399
-      }
-    ]
-  },
-  {
-    "name": "Цирк",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2314",
-    "coords": [
-      {
-        "address": "Cirkus, Blok 61, Beograd",
-        "lat": 44.8025,
-        "lng": 20.3722
-      }
-    ]
-  },
-  {
-    "name": "Спектакль на русском языке «Как Маша уснуть не смогла",
-    "day": "sunday",
-    "url": "https://t.me/mamakudaidem/2114",
-    "coords": [
-      {
-        "address": "Be Smart, Beograd",
-        "lat": 44.79437,
-        "lng": 20.4766
-      }
-    ]
-  }
-]
+  "events": [
+    {
+      "name": "Книжный субботник",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2268",
+      "coords": [
+        {
+          "address": "Bela Vrana, Beograd",
+          "lat": 44.8124662,
+          "lng": 20.455659
+        }
+      ]
+    },
+    {
+      "name": "Детская ярмарка Lilly Junior ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2284",
+      "coords": [
+        {
+          "address": "Savski park, Beograd",
+          "lat": 44.8049882,
+          "lng": 20.4515213
+        }
+      ]
+    },
+    {
+      "name": "На велосипеде в школу» ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2288",
+      "coords": [
+        {
+          "address": "BIG Zrenjanin, Zrenjanin",
+          "lat": 45.3777377,
+          "lng": 20.3539074
+        }
+      ]
+    },
+    {
+      "name": "Пробное занятие по робототехнике ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2228",
+      "coords": [
+        {
+          "address": "Kneza Danila 61, Beograd",
+          "lat": 44.8077184,
+          "lng": 20.4805128
+        }
+      ]
+    },
+    {
+      "name": "Программа мероприятий в Ташмайдане",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2298",
+      "coords": [
+        {
+          "address": "Tašmajdan Park, Beograd",
+          "lat": 44.8092199,
+          "lng": 20.4705957
+        }
+      ]
+    },
+    {
+      "name": "Творческая мастерская ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2300",
+      "coords": [
+        {
+          "address": "CineStar Cinemas, Ada Mall, Beograd",
+          "lat": 44.786928,
+          "lng": 20.4185676
+        }
+      ]
+    },
+    {
+      "name": "Спектакль на русском языке «Чемодан» ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2221",
+      "coords": [
+        {
+          "address": "Svetogorska 46, Beograd",
+          "lat": 44.8127427,
+          "lng": 20.4697948
+        }
+      ]
+    },
+    {
+      "name": "Танцевальный МК",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2302",
+      "coords": [
+        {
+          "address": "Aviv Park Zvezdara, Beograd",
+          "lat": 44.7860942,
+          "lng": 20.5144943
+        }
+      ]
+    },
+    {
+      "name": "Винни-Пух» - спектакль в кукольном театре ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2198",
+      "coords": [
+        {
+          "address": "Pozorište lutaka Pinokio, Beograd",
+          "lat": 44.8301274,
+          "lng": 20.411863
+        }
+      ]
+    },
+    {
+      "name": "Фестиваль сладостей ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2310",
+      "coords": [
+        {
+          "address": "Mercator Centar, Beograd",
+          "lat": 44.8206513,
+          "lng": 20.4142399
+        }
+      ]
+    },
+    {
+      "name": "Цирк",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2314",
+      "coords": [
+        {
+          "address": "Cirkus, Blok 61, Beograd",
+          "lat": 44.8025,
+          "lng": 20.3722
+        }
+      ]
+    },
+    {
+      "name": "Ночевка + столярка",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2319",
+      "coords": [
+        {
+          "address": "Teremok, Beograd",
+          "lat": 44.8356,
+          "lng": 20.407481
+        }
+      ]
+    },
+    {
+      "name": "Программа посвященная летучим мышам ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2321",
+      "coords": [
+        {
+          "address": "Biblioteka grada Beograda, Beograd",
+          "lat": 44.8200202,
+          "lng": 20.4534502
+        }
+      ]
+    },
+    {
+      "name": "Детская ярмарка Lilly Junior ",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2284",
+      "coords": [
+        {
+          "address": "Savski park, Beograd",
+          "lat": 44.8049882,
+          "lng": 20.4515213
+        }
+      ]
+    },
+    {
+      "name": "Программа мероприятий в Ташмайдане ",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2299",
+      "coords": [
+        {
+          "address": "Tašmajdan Park, Beograd",
+          "lat": 44.8092199,
+          "lng": 20.4705957
+        }
+      ]
+    },
+    {
+      "name": "Творческая мастерская ",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2300",
+      "coords": [
+        {
+          "address": "CineStar Cinemas, Ada Mall, Beograd",
+          "lat": 44.786928,
+          "lng": 20.4185676
+        }
+      ]
+    },
+    {
+      "name": "Фестиваль сладостей ",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2310",
+      "coords": [
+        {
+          "address": "Mercator Centar, Beograd",
+          "lat": 44.8206513,
+          "lng": 20.4142399
+        }
+      ]
+    },
+    {
+      "name": "Цирк",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2314",
+      "coords": [
+        {
+          "address": "Cirkus, Blok 61, Beograd",
+          "lat": 44.8025,
+          "lng": 20.3722
+        }
+      ]
+    },
+    {
+      "name": "Спектакль на русском языке «Как Маша уснуть не смогла",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2114",
+      "coords": [
+        {
+          "address": "Be Smart, Beograd",
+          "lat": 44.79437,
+          "lng": 20.4766
+        }
+      ]
+    }
+  ]
+}
