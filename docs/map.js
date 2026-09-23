@@ -30,10 +30,13 @@ function init() {
 function loadEvents() {
   fetch('./events.json')
     .then(r => r.json())
-    .then(events => {
+    .then(data => {
+      document.querySelector('h1').textContent = 
+      `Детские мероприятия на выходные ${data.dates.saturday} - ${data.dates.sunday}`;
+    
       const groups = new Map();
 
-      events.forEach(event => {
+      data.events.forEach(event => {
         event.coords.forEach(coord => {
           const key = `${coord.lat},${coord.lng}`;
           if (!groups.has(key)) {

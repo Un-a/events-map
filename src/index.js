@@ -4,6 +4,7 @@ const { initializeTelegramClient } = require("./scripts/telegramClient");
 const { fetchWeekendPost, parseEvents } = require("./scripts/fetchWeekendPost");
 const { processEvents } = require("./scripts/processEvents");
 const { saveResults } = require("./scripts/saveResults");
+const { getWeekendDates } = require("./scripts/getWeekendDates");
 
 (async () => {
   try {
@@ -14,7 +15,12 @@ const { saveResults } = require("./scripts/saveResults");
 
     const result = await processEvents(client, events);
 
-    saveResults(result);
+    const dates = getWeekendDates(
+      process.env.OVERRIDE_SATURDAY || null,
+      process.env.OVERRIDE_SUNDAY || null
+    );
+
+    saveResults(result, dates);
 
     await client.disconnect();
   } catch (error) {
