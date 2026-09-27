@@ -1,7 +1,7 @@
 {
   "dates": {
-    "saturday": "26 сентября",
-    "sunday": "27 сентября"
+    "saturday": "19 сентября",
+    "sunday": "20 сентября"
   },
   "events": [
     {
@@ -62,13 +62,25 @@
       "name": "Бесплатный спектакль «Легенда о зеленом городе» ",
       "day": "saturday",
       "url": "https://t.me/mamakudaidem/2375",
-      "coords": []
+      "coords": [
+        {
+          "address": "Ustanova kulture Sumice, Beograd",
+          "lat": 44.7846,
+          "lng": 20.4904
+        }
+      ]
     },
     {
       "name": "Экскурсия и МК в музее кукол ",
       "day": "saturday",
       "url": "https://t.me/mamakudaidem/2397",
-      "coords": []
+      "coords": [
+        {
+          "address": "Muzej lutaka, Beograd",
+          "lat": 44.814186,
+          "lng": 20.466614
+        }
+      ]
     },
     {
       "name": "Репертуар кукольного театра ",
@@ -104,7 +116,13 @@
       "name": "Спектакль «все наоборот» (для малышей) ",
       "day": "sunday",
       "url": "https://t.me/mamakudaidem/2240",
-      "coords": []
+      "coords": [
+        {
+          "address": "Resavska, 34, Beograd",
+          "lat": 44.807291,
+          "lng": 20.464739
+        }
+      ]
     },
     {
       "name": "Семейный день в парке Топчидер ",

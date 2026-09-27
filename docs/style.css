@@ -6,8 +6,8 @@
     
     h1 {
       text-align: center;
-      margin: 20px 0;
-      font-size: 24px;
+      margin: 10px 0;
+      font-size: 18px;
     }
     .controls {
       display: flex;
@@ -104,4 +104,10 @@
 
     .bottom-sheet-content {
       line-height: 1.5;
+    }
+    @media (min-width: 768px) {
+      h1 {
+        margin: 20px 0;
+        font-size: 24px;
+      }
     }

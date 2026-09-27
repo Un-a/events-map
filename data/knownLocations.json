@@ -129,6 +129,11 @@
     "lng": 20.4904,
     "name": "Sportsko-kulturni centar Šumice"
   },
+  "ustanova kulture sumice, beograd": {
+    "lat": 44.7846,
+    "lng": 20.4904,
+    "name": "Sportsko-kulturni centar Šumice"
+  },
   "stolart, beograd": {
     "lat": 44.795589,
     "lng": 20.502205,
@@ -163,5 +168,10 @@
     "lat": 44.8025,
     "lng": 20.3722,
     "name": "Cirkus, Blok 61"
+  },
+  "muzej lutaka, beograd": {
+    "lat": 44.814186,
+    "lng": 20.466614,
+    "name": "Muzej lutaka"
   }
 }
