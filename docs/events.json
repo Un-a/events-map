@@ -1,55 +1,13 @@
 {
   "dates": {
-    "saturday": "19 сентября",
-    "sunday": "20 сентября"
+    "saturday": "3 октября",
+    "sunday": "4 октября"
   },
   "events": [
     {
-      "name": "Робототехника ",
+      "name": "Спектакль «Холодное сердце» ",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2345",
-      "coords": []
-    },
-    {
-      "name": "Ночевка ",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2356",
-      "coords": [
-        {
-          "address": "Bulevar Mihajla Pupina 135, Beograd",
-          "lat": 44.819888,
-          "lng": 20.4205179
-        }
-      ]
-    },
-    {
-      "name": "Читакль",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2359",
-      "coords": [
-        {
-          "address": "Bela Vrana, Beograd",
-          "lat": 44.8124662,
-          "lng": 20.455659
-        }
-      ]
-    },
-    {
-      "name": "Ночевка в продленке",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2373",
-      "coords": [
-        {
-          "address": "Bulevar vojvode Putnika 68a, Beograd",
-          "lat": 44.7918466,
-          "lng": 20.4457217
-        }
-      ]
-    },
-    {
-      "name": "Астерикс и Обеликс",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2374",
+      "url": "https://t.me/mamakudaidem/2414",
       "coords": [
         {
           "address": "Centar za kulturu Vlada Divljan, Beograd",
@@ -59,33 +17,57 @@
       ]
     },
     {
-      "name": "Бесплатный спектакль «Легенда о зеленом городе» ",
+      "name": "Книжный субботник ",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2375",
+      "url": "https://t.me/mamakudaidem/2421",
       "coords": [
         {
-          "address": "Ustanova kulture Sumice, Beograd",
-          "lat": 44.7846,
-          "lng": 20.4904
+          "address": "Bela Vrana, Beograd",
+          "lat": 44.8124662,
+          "lng": 20.455659
         }
       ]
     },
     {
-      "name": "Экскурсия и МК в музее кукол ",
+      "name": "Цирк в НБ ",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2397",
+      "url": "https://t.me/mamakudaidem/2314",
       "coords": [
         {
-          "address": "Muzej lutaka, Beograd",
-          "lat": 44.814186,
-          "lng": 20.466614
+          "address": "Novi Beograd, Beograd",
+          "lat": 44.8025,
+          "lng": 20.3722
         }
       ]
     },
     {
-      "name": "Репертуар кукольного театра ",
+      "name": "Анимация оригами ",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2398",
+      "url": "https://t.me/mamakudaidem/2424",
+      "coords": [
+        {
+          "address": "Hobbit House, Beograd",
+          "lat": 44.8138,
+          "lng": 20.4764
+        }
+      ]
+    },
+    {
+      "name": "МК и аквагрим в кино! ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2426",
+      "coords": [
+        {
+          "address": "mts Dvorana, Beograd",
+          "lat": 44.8132202,
+          "lng": 20.4626291
+        }
+      ]
+    },
+    {
+      "name": "Бесплатный спектакль для детей ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2427",
       "coords": [
         {
           "address": "Pozorište lutaka Pinokio, Beograd",
@@ -95,63 +77,81 @@
       ]
     },
     {
-      "name": "Рисование ",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2357",
+      "name": "МК для подростков ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2438",
       "coords": []
     },
     {
-      "name": "Бесплатный спектакль «Стич»  ",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2362",
+      "name": "Семейная программа в Чубурском парке",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2441",
       "coords": [
         {
-          "address": "Ustanova kulture Vlada Divljan, Beograd",
-          "lat": 44.8168,
-          "lng": 20.4855
+          "address": "Čuburski park, Beograd",
+          "lat": 44.7972822,
+          "lng": 20.4758753
         }
       ]
     },
     {
-      "name": "Спектакль «все наоборот» (для малышей) ",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2240",
+      "name": "Домик у Маши ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2442",
+      "coords": []
+    },
+    {
+      "name": "Бесплатные занятия для детей в  CRNO-BELA MACKA (от 2-15 лета занятий много. Выбирайте",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2443",
       "coords": [
         {
-          "address": "Resavska, 34, Beograd",
-          "lat": 44.807291,
-          "lng": 20.464739
+          "address": "Crno-bela mačka, Beograd",
+          "lat": 44.8209,
+          "lng": 20.4708
         }
       ]
     },
     {
-      "name": "Семейный день в парке Топчидер ",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2278",
+      "name": "День открытых дверей в школе «Karton",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2449",
       "coords": [
         {
-          "address": "Topčiderski park, Beograd",
-          "lat": 44.7789483,
-          "lng": 20.4393659
+          "address": "Prodlenka, Kneza Danila 54, Beograd",
+          "lat": 44.8079717,
+          "lng": 20.4791356
         }
       ]
     },
     {
-      "name": "Магическое шоу ",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2396",
+      "name": "Ночевка в ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2450",
       "coords": [
         {
-          "address": "Javni akvarijum i tropikarijum, Beograd",
-          "lat": 44.784244,
-          "lng": 20.4503788
+          "address": "Bulevar vojvode Putnika 68a, Beograd",
+          "lat": 44.7918466,
+          "lng": 20.4457217
         }
       ]
     },
     {
-      "name": "Репертуар кукольного театра",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2398",
+      "name": "Продленке",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2450",
+      "coords": [
+        {
+          "address": "Bulevar vojvode Putnika 68a, Beograd",
+          "lat": 44.7918466,
+          "lng": 20.4457217
+        }
+      ]
+    },
+    {
+      "name": "Афиша кукольного театра (спектакли от 2+) ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2453",
       "coords": [
         {
           "address": "Pozorište lutaka Pinokio, Beograd",
@@ -159,6 +159,84 @@
           "lng": 20.411863
         }
       ]
+    },
+    {
+      "name": "Цирк в НБ ",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2314",
+      "coords": [
+        {
+          "address": "Novi Beograd, Beograd",
+          "lat": 44.8025,
+          "lng": 20.3722
+        }
+      ]
+    },
+    {
+      "name": "МК и аквагрим в кино! ",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2426",
+      "coords": [
+        {
+          "address": "mts Dvorana, Beograd",
+          "lat": 44.8132202,
+          "lng": 20.4626291
+        }
+      ]
+    },
+    {
+      "name": "Бесплатный спектакль для детей ",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2427",
+      "coords": [
+        {
+          "address": "Pozorište lutaka Pinokio, Beograd",
+          "lat": 44.8301274,
+          "lng": 20.411863
+        }
+      ]
+    },
+    {
+      "name": "Свинка Пеппа (Кельтское село) ",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2432",
+      "coords": [
+        {
+          "address": "Keltsko selo, Indjija",
+          "lat": 45.0542339,
+          "lng": 20.0642598
+        }
+      ]
+    },
+    {
+      "name": "Бесплатные занятия для детей в  CRNO-BELA MACKA (от 2-15 лета занятий много. Выбирайте",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2443",
+      "coords": [
+        {
+          "address": "Crno-bela mačka, Beograd",
+          "lat": 44.8209,
+          "lng": 20.4708
+        }
+      ]
+    },
+    {
+      "name": "Афиша кукольного театра (спектакли от 2",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2453",
+      "coords": [
+        {
+          "address": "Pozorište lutaka Pinokio, Beograd",
+          "lat": 44.8301274,
+          "lng": 20.411863
+        }
+      ]
+    },
+    {
+      "name": "Игра по Бахотскому",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2439",
+      "coords": []
     }
   ]
 }
