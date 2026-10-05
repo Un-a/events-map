@@ -22,7 +22,7 @@
       "url": "https://t.me/mamakudaidem/2421",
       "coords": [
         {
-          "address": "Bela Vrana, Beograd",
+          "address": "Knjižara Bela vrana, Beograd",
           "lat": 44.8124662,
           "lng": 20.455659
         }
@@ -46,9 +46,9 @@
       "url": "https://t.me/mamakudaidem/2424",
       "coords": [
         {
-          "address": "Hobbit House, Beograd",
-          "lat": 44.8138,
-          "lng": 20.4764
+          "address": "Hobbit Haus, Draže Pavlovića 21, Beograd",
+          "lat": 44.8138266,
+          "lng": 20.4765299
         }
       ]
     },
@@ -70,17 +70,23 @@
       "url": "https://t.me/mamakudaidem/2427",
       "coords": [
         {
-          "address": "Pozorište lutaka Pinokio, Beograd",
-          "lat": 44.8301274,
-          "lng": 20.411863
+          "address": "Pozorište Zmaj, Svetozara Markovića 79, Beograd",
+          "lat": 44.801748,
+          "lng": 20.462239
         }
       ]
     },
     {
-      "name": "МК для подростков ",
+      "name": "МK для подростков ",
       "day": "saturday",
       "url": "https://t.me/mamakudaidem/2438",
-      "coords": []
+      "coords": [
+        {
+          "address": "Hobbit Haus, Draže Pavlovića 21, Beograd",
+          "lat": 44.8138266,
+          "lng": 20.4765299
+        }
+      ]
     },
     {
       "name": "Семейная программа в Чубурском парке",
@@ -98,7 +104,13 @@
       "name": "Домик у Маши ",
       "day": "saturday",
       "url": "https://t.me/mamakudaidem/2442",
-      "coords": []
+      "coords": [
+        {
+          "address": "Domik u Mashi, Beograd",
+          "lat": 44.795589,
+          "lng": 20.502205
+        }
+      ]
     },
     {
       "name": "Бесплатные занятия для детей в  CRNO-BELA MACKA (от 2-15 лета занятий много. Выбирайте",
@@ -106,7 +118,7 @@
       "url": "https://t.me/mamakudaidem/2443",
       "coords": [
         {
-          "address": "Crno-bela mačka, Beograd",
+          "address": "CRNO-BELA MACKA, Beograd",
           "lat": 44.8209,
           "lng": 20.4708
         }
@@ -125,19 +137,7 @@
       ]
     },
     {
-      "name": "Ночевка в ",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2450",
-      "coords": [
-        {
-          "address": "Bulevar vojvode Putnika 68a, Beograd",
-          "lat": 44.7918466,
-          "lng": 20.4457217
-        }
-      ]
-    },
-    {
-      "name": "Продленке",
+      "name": "Ночевка в Продленке",
       "day": "saturday",
       "url": "https://t.me/mamakudaidem/2450",
       "coords": [
@@ -154,7 +154,7 @@
       "url": "https://t.me/mamakudaidem/2453",
       "coords": [
         {
-          "address": "Pozorište lutaka Pinokio, Beograd",
+          "address": "Pozorište Pinokio, Beograd",
           "lat": 44.8301274,
           "lng": 20.411863
         }
@@ -190,9 +190,9 @@
       "url": "https://t.me/mamakudaidem/2427",
       "coords": [
         {
-          "address": "Pozorište lutaka Pinokio, Beograd",
-          "lat": 44.8301274,
-          "lng": 20.411863
+          "address": "Pozorište Zmaj, Svetozara Markovića 79, Beograd",
+          "lat": 44.801748,
+          "lng": 20.462239
         }
       ]
     },
@@ -202,7 +202,7 @@
       "url": "https://t.me/mamakudaidem/2432",
       "coords": [
         {
-          "address": "Keltsko selo, Indjija",
+          "address": "Keltsko selo, Inđija",
           "lat": 45.0542339,
           "lng": 20.0642598
         }
@@ -214,7 +214,7 @@
       "url": "https://t.me/mamakudaidem/2443",
       "coords": [
         {
-          "address": "Crno-bela mačka, Beograd",
+          "address": "CRNO-BELA MACKA, Beograd",
           "lat": 44.8209,
           "lng": 20.4708
         }
@@ -226,7 +226,7 @@
       "url": "https://t.me/mamakudaidem/2453",
       "coords": [
         {
-          "address": "Pozorište lutaka Pinokio, Beograd",
+          "address": "Pozorište Pinokio, Beograd",
           "lat": 44.8301274,
           "lng": 20.411863
         }

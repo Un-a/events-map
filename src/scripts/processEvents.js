@@ -23,9 +23,8 @@ async function processEvents(client, events) {
         process.env.OVERRIDE_SATURDAY || null,
         process.env.OVERRIDE_SUNDAY || null
       );
-      const dateForDay = event.day === 'saturday' ? dates.saturday : dates.sunday;
 
-      locations = await extractLocation(post.message, event.name, event.day, dateForDay);
+      locations = await extractLocation(post.message, event.name);
       if (!Array.isArray(locations)) locations = [];
 
       coordsArray = [];

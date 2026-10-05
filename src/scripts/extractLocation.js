@@ -1,69 +1,75 @@
-const { GoogleGenAI } = require("@google/genai");
+const { GoogleGenAI, Type } = require("@google/genai");
 
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
-async function extractLocation(text, eventName, day, date = null) {
-  if (!text) return null;
+const MODEL = "gemini-3.1-flash-lite";
+const MAX_ATTEMPTS = 3;
 
-const dayLabel = day === 'saturday' ? 'суббота' : 'воскресенье';
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const prompt = `Ты — гео-ассистент. Из текста анонса мероприятия вытащи адрес или название места.
+function buildPrompt(text, eventName) {
+  return `Ты — гео-ассистент. Из текста анонса мероприятия вытащи место проведения.
 Контекст: мероприятия в Белграде или Сербии.
-Верни ТОЛЬКО JSON массив с адресами, без пояснений и без markdown.
-Название места и город всегда пиши на латинице (сербской или английской).
-Используй официальное название места из Google Maps, не транслитерацию.
+Верни ТОЛЬКО JSON массив строк, без пояснений и без markdown.
 
-Правила определения места:
-- Адрес может быть явным (📍, отдельная строка) или в скобках внутри текста
-- Описание места ("большая площадь в Земуне") — определи официальное название
-- Упоминание учреждения ("В Музее науки и техники") — используй как место
-- Если текст короткий — определи место из названия мероприятия: "${eventName}"
-- Если название указывает на конкретное место — верни только его
+Правила:
+- Бери место ТОЛЬКО из текста анонса или названия мероприятия. Не подставляй другие места и не заменяй названное место похожим.
+- Название переведи в латиницу (сербскую) по написанию из текста: «Театр «Змай»» -> "Pozorište Zmaj".
+- Если указан адрес (📍, отдельная строка, скобки), используй его.
+- Если указан только город или район, добавь его.
+- Если город не указан, добавляй "Beograd".
+- Если мест несколько, верни все основные.
+- Если место не названо или ты не уверен, верни [].
+- Лучше вернуть название как в тексте, чем угадать другое место.
 
-Если место не в Белграде - добавь город.
-Если мест несколько - верни все основные.
-Если место не определить - верни [].
-
-Название: ${eventName} 
+Название: ${eventName}
 Текст: ${text}
 
 Примеры:
-- ["Kalemegdan, Beograd"]
-- ["Kalemegdan, Beograd", "Tasmajdan park, Beograd"]
-- []`;
+- Текст: "Место: Театр «Змай»" -> ["Pozorište Zmaj, Beograd"]
+- Текст: "📍 Kalemegdan" -> ["Kalemegdan, Beograd"]
+- Текст: "Kalemegdan и Ташмайдан" -> ["Kalemegdan, Beograd", "Tasmajdan park, Beograd"]
+- Текст: "Онлайн-встреча" -> []`;
+}
 
-  const maxAttempts = 3;
+async function askGemini(prompt) {
+  const response = await ai.models.generateContent({
+    model: MODEL,
+    contents: prompt,
+    config: {
+      temperature: 0,
+      responseMimeType: "application/json",
+      responseSchema: { type: Type.ARRAY, items: { type: Type.STRING } },
+    },
+  });
+  return response.text;
+}
 
-  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+function parseLocations(rawText) {
+  try {
+    const parsed = JSON.parse(rawText);
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+
+async function extractLocation(text, eventName) {
+  if (!text) return [];
+
+  const prompt = buildPrompt(text, eventName);
+
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     try {
-      const response = await ai.models.generateContent({
-        model: "gemini-3.1-flash-lite",
-        contents: prompt,
-        config: {
-          temperature: 0
-        }
-      });
-      const responseText = response.text ? response.text.trim() : "null";
-        try {
-            const parsed = JSON.parse(responseText);
-            return Array.isArray(parsed) ? parsed : [];
-        } catch {
-            return [];
-        }
-
+      return parseLocations(await askGemini(prompt));
     } catch (error) {
-      const isTransient = error.status === 503 || error.status === 429 || error.message?.includes('503');
-
-      if (attempt < maxAttempts) {
-        const delay = attempt * 5000; 
-        const reason = isTransient ? "Сервер Gemini перегружен (503)" : "Ошибка запроса";
-        
-        console.warn(`⏳ [Попытка ${attempt}/${maxAttempts}] ${reason}. Повтор через ${delay / 1000} сек...`);
-        await new Promise((resolve) => setTimeout(resolve, delay));
-      } else {
-        console.error(`❌ Не удалось получить адрес для мероприятия "${eventName}" после ${maxAttempts} попыток. Ошибка: ${error.message}`);
+      if (attempt === MAX_ATTEMPTS) {
+        console.error(`❌ Не удалось получить адрес для "${eventName}" после ${MAX_ATTEMPTS} попыток: ${error.message}`);
         return [];
       }
+      const delay = attempt * 5000;
+      console.warn(`⏳ [Попытка ${attempt}/${MAX_ATTEMPTS}] ${error.message}. Повтор через ${delay / 1000} сек...`);
+      await sleep(delay);
     }
   }
 }
