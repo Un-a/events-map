@@ -23,8 +23,8 @@
       "coords": [
         {
           "address": "Gradska čistoća, Mije Kovačevića 4, Beograd",
-          "lat": 44.7563711,
-          "lng": 20.569374
+          "lat": 44.811954,
+          "lng": 20.490069
         }
       ]
     },
@@ -35,8 +35,8 @@
       "coords": [
         {
           "address": "Hadži Milentijeva 78, Vračar, Beograd",
-          "lat": 44.7979128,
-          "lng": 20.4721945
+             "lat": 44.79437,
+              "lng": 20.4766
         }
       ]
     },
@@ -68,7 +68,13 @@
       "name": "Экспедиция на Марс",
       "day": "saturday",
       "url": "https://t.me/mamakudaidem/2515",
-      "coords": []
+      "coords": [
+        {
+          "address": "Narodna opservatorija, Despotova kula, Gornji grad, Kalemegdan, Beograd",
+              "lat": 44.8253,
+              "lng": 20.4507
+        }
+      ]
     },
     {
       "name": "Спектакль «Тайна волшебного зеркала» - бесплатный ",
@@ -131,19 +137,7 @@
       ]
     },
     {
-      "name": "Спектакль",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2526",
-      "coords": [
-        {
-          "address": "Pozorište Zmaj, Svetozara Markovića 79, Beograd",
-          "lat": 44.8016262,
-          "lng": 20.4624167
-        }
-      ]
-    },
-    {
-      "name": " «школа магии» - бесплатный",
+      "name": "Спектакль «школа магии» - бесплатный",
       "day": "sunday",
       "url": "https://t.me/mamakudaidem/2526",
       "coords": [
