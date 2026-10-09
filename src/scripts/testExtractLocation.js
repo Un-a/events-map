@@ -3,7 +3,7 @@ const { extractLocation } = require("./extractLocation");
 const { initializeTelegramClient } = require("./telegramClient");
 const { getWeekendDates } = require("./getWeekendDates");
 
-const postUrl = "https://t.me/mamakudaidem/2427";
+const postUrl = "https://t.me/mamakudaidem/2490";
 const namePost = "Веселые нотки (2,5-4 года)";
 
 (async () => {
