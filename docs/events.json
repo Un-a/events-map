@@ -1,25 +1,49 @@
 {
   "dates": {
-    "saturday": "3 октября",
-    "sunday": "4 октября"
+    "saturday": "10 октября",
+    "sunday": "11 октября"
   },
   "events": [
     {
-      "name": "Спектакль «Холодное сердце» ",
+      "name": "Экскурсия в музее Paranormalog",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2414",
+      "url": "https://t.me/mamakudaidem/2475",
       "coords": [
         {
-          "address": "Centar za kulturu Vlada Divljan, Beograd",
-          "lat": 44.8164254,
-          "lng": 20.4854991
+          "address": "Muzej Paranormalnog, Zmaj-Jovina 4, Beograd",
+          "lat": 44.8167162,
+          "lng": 20.4571463
         }
       ]
     },
     {
-      "name": "Книжный субботник ",
+      "name": "Катаемся на МУСОРОВОЗЕ",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2421",
+      "url": "https://t.me/mamakudaidem/2490",
+      "coords": [
+        {
+          "address": "Gradska čistoća, Mije Kovačevića 4, Beograd",
+          "lat": 44.7563711,
+          "lng": 20.569374
+        }
+      ]
+    },
+    {
+      "name": "Продленка в Be Smart ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2498",
+      "coords": [
+        {
+          "address": "Hadži Milentijeva 78, Vračar, Beograd",
+          "lat": 44.7979128,
+          "lng": 20.4721945
+        }
+      ]
+    },
+    {
+      "name": "Книжный читакль",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2503",
       "coords": [
         {
           "address": "Knjižara Bela vrana, Beograd",
@@ -29,214 +53,106 @@
       ]
     },
     {
-      "name": "Цирк в НБ ",
+      "name": "Бесплатный МК по оригами ",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2314",
+      "url": "https://t.me/mamakudaidem/2510",
       "coords": [
         {
-          "address": "Novi Beograd, Beograd",
-          "lat": 44.8025,
-          "lng": 20.3722
+          "address": "Etnografski muzej, Beograd",
+          "lat": 44.8198728,
+          "lng": 20.4564587
         }
       ]
     },
     {
-      "name": "Анимация оригами ",
+      "name": "Экспедиция на Марс",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2424",
-      "coords": [
-        {
-          "address": "Hobbit Haus, Draže Pavlovića 21, Beograd",
-          "lat": 44.8138266,
-          "lng": 20.4765299
-        }
-      ]
-    },
-    {
-      "name": "МК и аквагрим в кино! ",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2426",
-      "coords": [
-        {
-          "address": "mts Dvorana, Beograd",
-          "lat": 44.8132202,
-          "lng": 20.4626291
-        }
-      ]
-    },
-    {
-      "name": "Бесплатный спектакль для детей ",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2427",
-      "coords": [
-        {
-          "address": "Pozorište Zmaj, Svetozara Markovića 79, Beograd",
-          "lat": 44.801748,
-          "lng": 20.462239
-        }
-      ]
-    },
-    {
-      "name": "МK для подростков ",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2438",
-      "coords": [
-        {
-          "address": "Hobbit Haus, Draže Pavlovića 21, Beograd",
-          "lat": 44.8138266,
-          "lng": 20.4765299
-        }
-      ]
-    },
-    {
-      "name": "Семейная программа в Чубурском парке",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2441",
-      "coords": [
-        {
-          "address": "Čuburski park, Beograd",
-          "lat": 44.7972822,
-          "lng": 20.4758753
-        }
-      ]
-    },
-    {
-      "name": "Домик у Маши ",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2442",
-      "coords": [
-        {
-          "address": "Domik u Mashi, Beograd",
-          "lat": 44.795589,
-          "lng": 20.502205
-        }
-      ]
-    },
-    {
-      "name": "Бесплатные занятия для детей в  CRNO-BELA MACKA (от 2-15 лета занятий много. Выбирайте",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2443",
-      "coords": [
-        {
-          "address": "CRNO-BELA MACKA, Beograd",
-          "lat": 44.8209,
-          "lng": 20.4708
-        }
-      ]
-    },
-    {
-      "name": "День открытых дверей в школе «Karton",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2449",
-      "coords": [
-        {
-          "address": "Prodlenka, Kneza Danila 54, Beograd",
-          "lat": 44.8079717,
-          "lng": 20.4791356
-        }
-      ]
-    },
-    {
-      "name": "Ночевка в Продленке",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2450",
-      "coords": [
-        {
-          "address": "Bulevar vojvode Putnika 68a, Beograd",
-          "lat": 44.7918466,
-          "lng": 20.4457217
-        }
-      ]
-    },
-    {
-      "name": "Афиша кукольного театра (спектакли от 2+) ",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2453",
-      "coords": [
-        {
-          "address": "Pozorište Pinokio, Beograd",
-          "lat": 44.8301274,
-          "lng": 20.411863
-        }
-      ]
-    },
-    {
-      "name": "Цирк в НБ ",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2314",
-      "coords": [
-        {
-          "address": "Novi Beograd, Beograd",
-          "lat": 44.8025,
-          "lng": 20.3722
-        }
-      ]
-    },
-    {
-      "name": "МК и аквагрим в кино! ",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2426",
-      "coords": [
-        {
-          "address": "mts Dvorana, Beograd",
-          "lat": 44.8132202,
-          "lng": 20.4626291
-        }
-      ]
-    },
-    {
-      "name": "Бесплатный спектакль для детей ",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2427",
-      "coords": [
-        {
-          "address": "Pozorište Zmaj, Svetozara Markovića 79, Beograd",
-          "lat": 44.801748,
-          "lng": 20.462239
-        }
-      ]
-    },
-    {
-      "name": "Свинка Пеппа (Кельтское село) ",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2432",
-      "coords": [
-        {
-          "address": "Keltsko selo, Inđija",
-          "lat": 45.0542339,
-          "lng": 20.0642598
-        }
-      ]
-    },
-    {
-      "name": "Бесплатные занятия для детей в  CRNO-BELA MACKA (от 2-15 лета занятий много. Выбирайте",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2443",
-      "coords": [
-        {
-          "address": "CRNO-BELA MACKA, Beograd",
-          "lat": 44.8209,
-          "lng": 20.4708
-        }
-      ]
-    },
-    {
-      "name": "Афиша кукольного театра (спектакли от 2",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2453",
-      "coords": [
-        {
-          "address": "Pozorište Pinokio, Beograd",
-          "lat": 44.8301274,
-          "lng": 20.411863
-        }
-      ]
-    },
-    {
-      "name": "Игра по Бахотскому",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2439",
+      "url": "https://t.me/mamakudaidem/2515",
       "coords": []
+    },
+    {
+      "name": "Спектакль «Тайна волшебного зеркала» - бесплатный ",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2526",
+      "coords": [
+        {
+          "address": "Pozorište Zmaj, Svetozara Markovića 79, Beograd",
+          "lat": 44.8016262,
+          "lng": 20.4624167
+        }
+      ]
+    },
+    {
+      "name": "Традиционные ремесла - техника валяния ",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2493",
+      "coords": [
+        {
+          "address": "Zavičajni muzej Žarkovo, Beograd",
+          "lat": 44.7582418,
+          "lng": 20.4168477
+        }
+      ]
+    },
+    {
+      "name": "Семинар по первой помощи ",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2511",
+      "coords": [
+        {
+          "address": "Deciji vrtic Tocka oslonca, Prve pruge 9c, Zemun, Beograd",
+          "lat": 44.8362695,
+          "lng": 20.4143055
+        }
+      ]
+    },
+    {
+      "name": "СВОП",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2521",
+      "coords": [
+        {
+          "address": "Porodični prostor Enter, Resavska 34, Beograd",
+          "lat": 44.8071294,
+          "lng": 20.4647294
+        }
+      ]
+    },
+    {
+      "name": "Выставка экзотических животных",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2525",
+      "coords": [
+        {
+          "address": "Centar za kulturu Vlada Divljan, Mitropolita Petra 8, Beograd",
+          "lat": 44.8165774,
+          "lng": 20.4857125
+        }
+      ]
+    },
+    {
+      "name": "Спектакль",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2526",
+      "coords": [
+        {
+          "address": "Pozorište Zmaj, Svetozara Markovića 79, Beograd",
+          "lat": 44.8016262,
+          "lng": 20.4624167
+        }
+      ]
+    },
+    {
+      "name": " «школа магии» - бесплатный",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2526",
+      "coords": [
+        {
+          "address": "Pozorište Zmaj, Svetozara Markovića 79, Beograd",
+          "lat": 44.8016262,
+          "lng": 20.4624167
+        }
+      ]
     }
   ]
 }
