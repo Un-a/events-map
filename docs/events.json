@@ -23,8 +23,8 @@
       "coords": [
         {
           "address": "Gradska čistoća, Mije Kovačevića 4, Beograd",
-          "lat": 44.811954,
-          "lng": 20.490069
+          "lat": 44.7563711,
+          "lng": 20.569374
         }
       ]
     },
@@ -35,8 +35,8 @@
       "coords": [
         {
           "address": "Hadži Milentijeva 78, Vračar, Beograd",
-             "lat": 44.79437,
-              "lng": 20.4766
+          "lat": 44.79437,
+          "lng": 20.4766
         }
       ]
     },
@@ -71,8 +71,8 @@
       "coords": [
         {
           "address": "Narodna opservatorija, Despotova kula, Gornji grad, Kalemegdan, Beograd",
-              "lat": 44.8253,
-              "lng": 20.4507
+          "lat": 44.8253,
+          "lng": 20.4507
         }
       ]
     },
@@ -131,13 +131,25 @@
       "coords": [
         {
           "address": "Centar za kulturu Vlada Divljan, Mitropolita Petra 8, Beograd",
-          "lat": 44.8165774,
-          "lng": 20.4857125
+          "lat": 44.8166136,
+          "lng": 20.4855028
         }
       ]
     },
     {
-      "name": "Спектакль «школа магии» - бесплатный",
+      "name": "Спектакль",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2526",
+      "coords": [
+        {
+          "address": "Pozorište Zmaj, Svetozara Markovića 79, Beograd",
+          "lat": 44.8016262,
+          "lng": 20.4624167
+        }
+      ]
+    },
+    {
+      "name": " «школа магии» - бесплатный",
       "day": "sunday",
       "url": "https://t.me/mamakudaidem/2526",
       "coords": [
