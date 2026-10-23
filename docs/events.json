@@ -1,162 +1,192 @@
 {
   "dates": {
-    "saturday": "10 октября",
-    "sunday": "11 октября"
+    "saturday": "24 октября",
+    "sunday": "25 октября"
   },
   "events": [
     {
-      "name": "Экскурсия в музее Paranormalog",
+      "name": "День открытых дверей T4 Academy (картинг",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2475",
+      "url": "https://t.me/mamakudaidem/2668",
       "coords": [
         {
-          "address": "Muzej Paranormalnog, Zmaj-Jovina 4, Beograd",
-          "lat": 44.8167162,
-          "lng": 20.4571463
+          "address": "Autokomerc Karting Centar, Beograd",
+          "lat": 44.8334853,
+          "lng": 20.3075787
         }
       ]
     },
     {
-      "name": "Катаемся на МУСОРОВОЗЕ",
+      "name": "МК «Музыка надежды» - бесплатный",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2490",
+      "url": "https://t.me/mamakudaidem/2615",
       "coords": [
         {
-          "address": "Gradska čistoća, Mije Kovačevića 4, Beograd",
-          "lat": 44.7563711,
-          "lng": 20.569374
+          "address": "Evropska kuća, Beograd",
+          "lat": 44.81701,
+          "lng": 20.45764
         }
       ]
     },
     {
-      "name": "Продленка в Be Smart ",
+      "name": "Halloween в Roboacademy",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2498",
+      "url": "https://t.me/mamakudaidem/2528",
       "coords": [
         {
-          "address": "Hadži Milentijeva 78, Vračar, Beograd",
-          "lat": 44.79437,
-          "lng": 20.4766
+          "address": "Roboacademy, Luke Vukalovića 6, Beograd",
+          "lat": 44.8028432,
+          "lng": 20.4832069
         }
       ]
     },
     {
-      "name": "Книжный читакль",
+      "name": "Каток «Пионир",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2503",
+      "url": "https://t.me/mamakudaidem/2587",
       "coords": [
         {
-          "address": "Knjižara Bela vrana, Beograd",
-          "lat": 44.8124662,
-          "lng": 20.455659
+          "address": "Ledena dvorana Pionir, Čarlija Čaplina 39, Beograd",
+          "lat": 44.8155267,
+          "lng": 20.4850396
         }
       ]
     },
     {
-      "name": "Бесплатный МК по оригами ",
+      "name": "Halloween на роликах в Roller Land",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2510",
+      "url": "https://t.me/mamakudaidem/2516",
       "coords": [
         {
-          "address": "Etnografski muzej, Beograd",
-          "lat": 44.8198728,
-          "lng": 20.4564587
+          "address": "Roller Land, Milana Rakića 114, Zvezdara, Beograd",
+          "lat": 44.7918752,
+          "lng": 20.5181942
         }
       ]
     },
     {
-      "name": "Экспедиция на Марс",
+      "name": "Robo Academy Fest",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2515",
+      "url": "https://t.me/mamakudaidem/2582",
       "coords": [
         {
-          "address": "Narodna opservatorija, Despotova kula, Gornji grad, Kalemegdan, Beograd",
-          "lat": 44.8253,
-          "lng": 20.4507
+          "address": "Luke Vukalovića 6, Vračar, Beograd",
+          "lat": 44.7979128,
+          "lng": 20.4721945
+        },
+        {
+          "address": "Bulevar Zorana Đinđića 89, Novi Beograd",
+          "lat": 44.8156972,
+          "lng": 20.4184905
         }
       ]
     },
     {
-      "name": "Спектакль «Тайна волшебного зеркала» - бесплатный ",
+      "name": "Неоновый Halloween-квест",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2526",
+      "url": "https://t.me/mamakudaidem/2482",
       "coords": [
         {
-          "address": "Pozorište Zmaj, Svetozara Markovića 79, Beograd",
-          "lat": 44.8016262,
-          "lng": 20.4624167
+          "address": "ENTER, Resavska 34, Beograd",
+          "lat": 44.8071566,
+          "lng": 20.4647014
         }
       ]
     },
     {
-      "name": "Традиционные ремесла - техника валяния ",
+      "name": "Halloween МК в студии Stvori",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2551",
+      "coords": [
+        {
+          "address": "Stvori, Voždovac, Beograd",
+          "lat": 44.7779408,
+          "lng": 20.4734682
+        },
+        {
+          "address": "Stvori, Novi Beograd, Beograd",
+          "lat": 44.8133048,
+          "lng": 20.4183382
+        },
+        {
+          "address": "Stvori, Zvezdara, Beograd",
+          "lat": 44.7997558,
+          "lng": 20.5032678
+        }
+      ]
+    },
+    {
+      "name": "Спектакль «Му и Кар",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2630",
+      "coords": [
+        {
+          "address": "Svetogorska 46, Stari Grad, Beograd",
+          "lat": 44.8127427,
+          "lng": 20.4697948
+        }
+      ]
+    },
+    {
+      "name": "Robo Academy Fest",
       "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2493",
+      "url": "https://t.me/mamakudaidem/2582",
       "coords": [
         {
-          "address": "Zavičajni muzej Žarkovo, Beograd",
-          "lat": 44.7582418,
-          "lng": 20.4168477
+          "address": "Luke Vukalovića 6, Vračar, Beograd",
+          "lat": 44.7979128,
+          "lng": 20.4721945
+        },
+        {
+          "address": "Bulevar Zorana Đinđića 89, Novi Beograd",
+          "lat": 44.8156972,
+          "lng": 20.4184905
         }
       ]
     },
     {
-      "name": "Семинар по первой помощи ",
+      "name": "Каток «Пионир",
       "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2511",
+      "url": "https://t.me/mamakudaidem/2587",
       "coords": [
         {
-          "address": "Deciji vrtic Tocka oslonca, Prve pruge 9c, Zemun, Beograd",
-          "lat": 44.8362695,
-          "lng": 20.4143055
+          "address": "Ledena dvorana Pionir, Čarlija Čaplina 39, Beograd",
+          "lat": 44.8155267,
+          "lng": 20.4850396
         }
       ]
     },
     {
-      "name": "СВОП",
+      "name": "Halloween МК в студии Stvori",
       "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2521",
+      "url": "https://t.me/mamakudaidem/2551",
       "coords": [
         {
-          "address": "Porodični prostor Enter, Resavska 34, Beograd",
-          "lat": 44.8071294,
-          "lng": 20.4647294
+          "address": "Stvori, Voždovac, Beograd",
+          "lat": 44.7779408,
+          "lng": 20.4734682
+        },
+        {
+          "address": "Stvori, Novi Beograd, Beograd",
+          "lat": 44.8133048,
+          "lng": 20.4183382
+        },
+        {
+          "address": "Stvori, Zvezdara, Beograd",
+          "lat": 44.7997558,
+          "lng": 20.5032678
         }
       ]
     },
     {
-      "name": "Выставка экзотических животных",
+      "name": "Посмотреть события на карте",
       "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2525",
+      "url": "https://t.me/mkis_chat_bot/map?startapp=20261024",
       "coords": [
         {
-          "address": "Centar za kulturu Vlada Divljan, Mitropolita Petra 8, Beograd",
-          "lat": 44.8166136,
-          "lng": 20.4855028
-        }
-      ]
-    },
-    {
-      "name": "Спектакль",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2526",
-      "coords": [
-        {
-          "address": "Pozorište Zmaj, Svetozara Markovića 79, Beograd",
-          "lat": 44.8016262,
-          "lng": 20.4624167
-        }
-      ]
-    },
-    {
-      "name": " «школа магии» - бесплатный",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2526",
-      "coords": [
-        {
-          "address": "Pozorište Zmaj, Svetozara Markovića 79, Beograd",
-          "lat": 44.8016262,
-          "lng": 20.4624167
+          "address": "Ledena dvorana Pionir, Beograd",
+          "lat": 44.815757,
+          "lng": 20.4838538
         }
       ]
     }
