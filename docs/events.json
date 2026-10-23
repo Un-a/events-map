@@ -88,8 +88,8 @@
       "coords": [
         {
           "address": "ENTER, Resavska 34, Beograd",
-          "lat": 44.8071566,
-          "lng": 20.4647014
+          "lat": 44.8071294,
+          "lng": 20.4647294
         }
       ]
     },
@@ -182,13 +182,7 @@
       "name": "Посмотреть события на карте",
       "day": "sunday",
       "url": "https://t.me/mkis_chat_bot/map?startapp=20261024",
-      "coords": [
-        {
-          "address": "Ledena dvorana Pionir, Beograd",
-          "lat": 44.815757,
-          "lng": 20.4838538
-        }
-      ]
+      "coords": []
     }
   ]
 }
