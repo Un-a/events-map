@@ -243,8 +243,8 @@
       "coords": [
         {
           "address": "Centar za kulturu Vlada Divljan, Beograd",
-          "lat": 44.8177139,
-          "lng": 20.4845627
+          "lat": 44.8164254,
+          "lng": 20.4854991
         }
       ]
     },
@@ -252,13 +252,7 @@
       "name": "Хэллоуин в Crno-Bela Mačka",
       "day": "sunday",
       "url": "https://t.me/mamakudaidem/2678",
-      "coords": [
-        {
-          "address": "Crno-Bela Mačka, Miće Popovića 1, Dorćol, Beograd",
-          "lat": 44.8207314,
-          "lng": 20.4708472
-        }
-      ]
+      "coords": []
     },
     {
       "name": "Лавка чёрного кота в Kinder Garden",
