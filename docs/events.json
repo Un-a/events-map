@@ -1,61 +1,133 @@
 {
   "dates": {
-    "saturday": "31 октября",
-    "sunday": "1 ноября"
+    "saturday": "7 ноября",
+    "sunday": "8 ноября"
   },
   "events": [
     {
-      "name": "Книжный субботник «Белая ворона",
+      "name": "Кружок «Маленький биолог» в аквариуме",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2695",
+      "url": "https://t.me/mamakudaidem/2786",
       "coords": [
         {
-          "address": "Knjižara Bela vrana, Beograd",
-          "lat": 44.8124662,
-          "lng": 20.455659
+          "address": "Javni akvarijum i tropikarijum, Beograd",
+          "lat": 44.784244,
+          "lng": 20.4503788
         }
       ]
     },
     {
-      "name": "Halloween в Roboacademy",
+      "name": "K-POP HUNTR/X в Minipolis (4–13 лет",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2528",
+      "url": "https://t.me/mamakudaidem/2713",
       "coords": [
         {
-          "address": "Roboacademy, Luke Vukalovića 6, Beograd",
-          "lat": 44.8028432,
-          "lng": 20.4832069
+          "address": "Minipolis, Svetog Nikole 14, Beograd",
+          "lat": 44.8077215,
+          "lng": 20.4850411
         }
       ]
     },
     {
-      "name": "Tinker Slime Day",
+      "name": "Выходные в MTS Dvorana: «Кот в шляпе",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2677",
+      "url": "https://t.me/mamakudaidem/2751",
       "coords": [
         {
-          "address": "Mirijevski bulevar 213a, Beograd",
-          "lat": 44.795049,
-          "lng": 20.5275799
+          "address": "MTS Dvorana, Beograd",
+          "lat": 44.8132202,
+          "lng": 20.4626291
         }
       ]
     },
     {
-      "name": "Хэллоуин на ипподроме - бесплатно",
+      "name": "Театр «Пиноккио",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2649",
+      "url": "https://t.me/mamakudaidem/2763",
       "coords": [
         {
-          "address": "Hipodrom Beograd, Beograd",
-          "lat": 44.7867114,
-          "lng": 20.4265338
+          "address": "Pozorište lutaka Pinokio, Beograd",
+          "lat": 44.8301274,
+          "lng": 20.411863
         }
       ]
     },
     {
-      "name": "Спектакль «Девочка и робот» - бесплатный",
+      "name": "Дни робототехники в Sava Centar - бесплатно",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2667",
+      "url": "https://t.me/mamakudaidem/2767",
+      "coords": [
+        {
+          "address": "Sava Centar, Beograd",
+          "lat": 44.8093541,
+          "lng": 20.4321281
+        }
+      ]
+    },
+    {
+      "name": "Дом с привидениями» (7–10 лет",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2772",
+      "coords": [
+        {
+          "address": "Bulevar vojvode Putnika 68a, Beograd",
+          "lat": 44.7918466,
+          "lng": 20.4457217
+        }
+      ]
+    },
+    {
+      "name": "Спектакль «Улитка и кит» в Enter",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2781",
+      "coords": [
+        {
+          "address": "Porodični prostor Enter, Resavska 34, Beograd",
+          "lat": 44.8071294,
+          "lng": 20.4647294
+        }
+      ]
+    },
+    {
+      "name": "Шоу иллюзии в MTS Dvorana",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2648",
+      "coords": [
+        {
+          "address": "MTS Dvorana, Beograd",
+          "lat": 44.8132202,
+          "lng": 20.4626291
+        }
+      ]
+    },
+    {
+      "name": "Выходные в MTS Dvorana: «Кот в шляпе",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2751",
+      "coords": [
+        {
+          "address": "MTS Dvorana, Beograd",
+          "lat": 44.8132202,
+          "lng": 20.4626291
+        }
+      ]
+    },
+    {
+      "name": "Театр «Пиноккио",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2763",
+      "coords": [
+        {
+          "address": "Pozorište lutaka Pinokio, Beograd",
+          "lat": 44.8301274,
+          "lng": 20.411863
+        }
+      ]
+    },
+    {
+      "name": "Спектакль «Покахонтас» - бесплатный",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2745",
       "coords": [
         {
           "address": "Centar za kulturu Vlada Divljan, Beograd",
@@ -65,211 +137,9 @@
       ]
     },
     {
-      "name": "Лавка забытых чудес",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2716",
-      "coords": [
-        {
-          "address": "Kneza Danila 61, Beograd",
-          "lat": 44.8077184,
-          "lng": 20.4805128
-        }
-      ]
-    },
-    {
-      "name": "Хэллоуин в Kinder Garden",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2594",
-      "coords": [
-        {
-          "address": "Kinder Garden, Beograd",
-          "lat": 44.8157994,
-          "lng": 20.4751983
-        }
-      ]
-    },
-    {
-      "name": "Хэллоуин в «Таинственной квартире",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2621",
-      "coords": [
-        {
-          "address": "Teen Club, Nebojšina 53, Beograd",
-          "lat": 44.7920165,
-          "lng": 20.4691949
-        }
-      ]
-    },
-    {
-      "name": "Дело о похищении тыкв в Be Smart",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2699",
-      "coords": []
-    },
-    {
-      "name": "Праздник в Roller Land",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2700",
-      "coords": [
-        {
-          "address": "Roller Land, Milana Rakića 114, Beograd",
-          "lat": 44.7918752,
-          "lng": 20.5181942
-        }
-      ]
-    },
-    {
-      "name": "Театр «Пиноккио",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2725",
-      "coords": [
-        {
-          "address": "Pozorište lutaka Pinokio, Beograd",
-          "lat": 44.8301274,
-          "lng": 20.411863
-        }
-      ]
-    },
-    {
-      "name": "Квест и ночёвка в «Продлёнке",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2654",
-      "coords": [
-        {
-          "address": "Prodlenka, Kneza Danila 54, Beograd",
-          "lat": 44.8079717,
-          "lng": 20.4791356
-        },
-        {
-          "address": "Kinder Garden, Beograd",
-          "lat": 44.8157994,
-          "lng": 20.4751983
-        }
-      ]
-    },
-    {
-      "name": "Отель Трансильвания» в «Индиго",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2593",
-      "coords": [
-        {
-          "address": "Mileševska 3a, Vračar, Beograd",
-          "lat": 44.8015729,
-          "lng": 20.4768054
-        },
-        {
-          "address": "Antifašističke borbe 17, Novi Beograd, Beograd",
-          "lat": 44.8138078,
-          "lng": 20.4252815
-        }
-      ]
-    },
-    {
-      "name": "Хэллоуин в Čemodan Theatre",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2685",
-      "coords": [
-        {
-          "address": "Čemodan Theatre, Svetogorska 46, Stari Grad, Beograd",
-          "lat": 44.8127427,
-          "lng": 20.4697948
-        }
-      ]
-    },
-    {
-      "name": "31 Хармстября» в Luna Beograd",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2642",
-      "coords": [
-        {
-          "address": "Knjižara Lav i Žabac, Beograd",
-          "lat": 44.8211976,
-          "lng": 20.4557408
-        }
-      ]
-    },
-    {
-      "name": "Хэллоуин в аквариуме",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2687",
-      "coords": [
-        {
-          "address": "Akvarijum i tropikarijum, Beograd",
-          "lat": 44.784244,
-          "lng": 20.4503788
-        }
-      ]
-    },
-    {
-      "name": "Театр «Пиноккио",
+      "name": "Гномы-вредители в Hobbit House",
       "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2725",
-      "coords": [
-        {
-          "address": "Pozorište lutaka Pinokio, Beograd",
-          "lat": 44.8301274,
-          "lng": 20.411863
-        }
-      ]
-    },
-    {
-      "name": "Каток «Пионир",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2587",
-      "coords": [
-        {
-          "address": "Ledena dvorana Pionir, Čarlija Čaplina 39, Beograd",
-          "lat": 44.8155267,
-          "lng": 20.4850396
-        }
-      ]
-    },
-    {
-      "name": "Опера «Три поросёнка",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2610",
-      "coords": [
-        {
-          "address": "Madlenianum, Zemun, Beograd",
-          "lat": 44.845468,
-          "lng": 20.410705
-        }
-      ]
-    },
-    {
-      "name": "Спектакль «Динь-Динь» - бесплатный",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2721",
-      "coords": [
-        {
-          "address": "Centar za kulturu Vlada Divljan, Beograd",
-          "lat": 44.8164254,
-          "lng": 20.4854991
-        }
-      ]
-    },
-    {
-      "name": "Хэллоуин в Crno-Bela Mačka",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2678",
-      "coords": []
-    },
-    {
-      "name": "Лавка чёрного кота в Kinder Garden",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2594",
-      "coords": [
-        {
-          "address": "Kinder Garden, Beograd",
-          "lat": 44.8157994,
-          "lng": 20.4751983
-        }
-      ]
-    },
-    {
-      "name": "DIY в Hobbit House",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2714",
+      "url": "https://t.me/mamakudaidem/2759",
       "coords": [
         {
           "address": "Hobbit House, Draže Pavlovića 21, Beograd",
@@ -279,9 +149,21 @@
       ]
     },
     {
+      "name": "Читакль «Именинный пирог",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2739",
+      "coords": [
+        {
+          "address": "Beograd",
+          "lat": 44.8153318,
+          "lng": 20.4456588
+        }
+      ]
+    },
+    {
       "name": "Посмотреть события на карте",
       "day": "sunday",
-      "url": "https://t.me/mkis_chat_bot/map?startapp=20261031",
+      "url": "https://t.me/mkis_chat_bot/map?startapp=20261107",
       "coords": []
     }
   ]
