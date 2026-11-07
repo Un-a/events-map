@@ -131,8 +131,8 @@
       "coords": [
         {
           "address": "Centar za kulturu Vlada Divljan, Beograd",
-          "lat": 44.8177139,
-          "lng": 20.4845627
+          "lat": 44.817426,
+          "lng": 20.4832844
         }
       ]
     },
@@ -164,7 +164,13 @@
       "name": "Посмотреть события на карте",
       "day": "sunday",
       "url": "https://t.me/mkis_chat_bot/map?startapp=20261107",
-      "coords": []
+      "coords": [
+        {
+          "address": "Košutnjak, Beograd",
+          "lat": 44.7667539,
+          "lng": 20.4326687
+        }
+      ]
     }
   ]
 }
