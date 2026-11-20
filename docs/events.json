@@ -1,9 +1,15 @@
 {
   "dates": {
-    "saturday": "7 ноября",
-    "sunday": "8 ноября"
+    "saturday": "21 ноября",
+    "sunday": "22 ноября"
   },
   "events": [
+    {
+      "name": "Книжный субботник «Белая ворона",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2882",
+      "coords": []
+    },
     {
       "name": "Кружок «Маленький биолог» в аквариуме",
       "day": "saturday",
@@ -17,129 +23,195 @@
       ]
     },
     {
-      "name": "K-POP HUNTR/X в Minipolis (4–13 лет",
+      "name": "Спектакль «Песнь китов» (4",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2713",
+      "url": "https://t.me/mamakudaidem/2890",
       "coords": [
         {
-          "address": "Minipolis, Svetog Nikole 14, Beograd",
-          "lat": 44.8077215,
-          "lng": 20.4850411
+          "address": "Svetogorska 46, Stari Grad, Beograd",
+          "lat": 44.8127022,
+          "lng": 20.46969
         }
       ]
     },
     {
-      "name": "Выходные в MTS Dvorana: «Кот в шляпе",
+      "name": "Театр «Пинокио",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2751",
+      "url": "https://t.me/mamakudaidem/2953",
       "coords": [
         {
-          "address": "MTS Dvorana, Beograd",
-          "lat": 44.8132202,
-          "lng": 20.4626291
-        }
-      ]
-    },
-    {
-      "name": "Театр «Пиноккио",
-      "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2763",
-      "coords": [
-        {
-          "address": "Pozorište lutaka Pinokio, Beograd",
+          "address": "Pozorište Pinokio, Beograd",
           "lat": 44.8301274,
           "lng": 20.411863
         }
       ]
     },
     {
-      "name": "Дни робототехники в Sava Centar - бесплатно",
+      "name": "Мастерская Пиноккио в Be Smart (4–9 лет",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2767",
+      "url": "https://t.me/mamakudaidem/2940",
       "coords": [
         {
-          "address": "Sava Centar, Beograd",
-          "lat": 44.8093541,
-          "lng": 20.4321281
+          "address": "Be Smart, Beograd",
+          "lat": 44.79437,
+          "lng": 20.4766
         }
       ]
     },
     {
-      "name": "Дом с привидениями» (7–10 лет",
+      "name": "Вечёрка «Кузьминки",
       "day": "saturday",
-      "url": "https://t.me/mamakudaidem/2772",
+      "url": "https://t.me/mamakudaidem/2756",
       "coords": [
         {
-          "address": "Bulevar vojvode Putnika 68a, Beograd",
-          "lat": 44.7918466,
-          "lng": 20.4457217
+          "address": "Skaya dance studio, Resavska 78, Beograd",
+          "lat": 44.8015043,
+          "lng": 20.4573273
         }
       ]
     },
     {
-      "name": "Спектакль «Улитка и кит» в Enter",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2781",
-      "coords": [
-        {
-          "address": "Porodični prostor Enter, Resavska 34, Beograd",
-          "lat": 44.8071294,
-          "lng": 20.4647294
-        }
-      ]
+      "name": "Чаепитие в Бюллербю» (4",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2868",
+      "coords": []
     },
     {
-      "name": "Шоу иллюзии в MTS Dvorana",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2648",
-      "coords": [
-        {
-          "address": "MTS Dvorana, Beograd",
-          "lat": 44.8132202,
-          "lng": 20.4626291
-        }
-      ]
+      "name": "МК «Вместе с мамой",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2820",
+      "coords": []
     },
     {
-      "name": "Выходные в MTS Dvorana: «Кот в шляпе",
-      "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2751",
-      "coords": [
-        {
-          "address": "MTS Dvorana, Beograd",
-          "lat": 44.8132202,
-          "lng": 20.4626291
-        }
-      ]
+      "name": "Праздник фонариков в «Продлёнке» (4–7 лет",
+      "day": "saturday",
+      "url": "https://t.me/mamakudaidem/2886",
+      "coords": []
     },
     {
-      "name": "Театр «Пиноккио",
+      "name": "Театр «Пинокио",
       "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2763",
+      "url": "https://t.me/mamakudaidem/2953",
       "coords": [
         {
-          "address": "Pozorište lutaka Pinokio, Beograd",
+          "address": "Pozorište Pinokio, Beograd",
           "lat": 44.8301274,
           "lng": 20.411863
         }
       ]
     },
     {
-      "name": "Спектакль «Покахонтас» - бесплатный",
+      "name": "Спектакль «Красавица и Чудовище» - бесплатный",
       "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2745",
+      "url": "https://t.me/mamakudaidem/2926",
       "coords": [
         {
-          "address": "Centar za kulturu Vlada Divljan, Beograd",
-          "lat": 44.817426,
-          "lng": 20.4832844
+          "address": "Centar za kulturu Vlada Divljan, Mitropolita Petra 8, Beograd",
+          "lat": 44.8166136,
+          "lng": 20.4855028
         }
       ]
     },
     {
-      "name": "Гномы-вредители в Hobbit House",
+      "name": "День открытых дверей «Энтер Земун» - бесплатно",
       "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2759",
+      "url": "https://t.me/mamakudaidem/2874",
+      "coords": [
+        {
+          "address": "Jovana Subotića 7, Zemun, Beograd",
+          "lat": 44.8419498,
+          "lng": 20.4154319
+        }
+      ]
+    },
+    {
+      "name": "Праздник фонариков в Čemodan Theatre (3–6 лет",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2796",
+      "coords": [
+        {
+          "address": "Bulevar Crvene Armije 9b, Beograd",
+          "lat": 44.8067393,
+          "lng": 20.4066943
+        }
+      ]
+    },
+    {
+      "name": "Магическое шоу в аквариуме",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2925",
+      "coords": [
+        {
+          "address": "Akvarijum i tropikarijum, Milenka Vesnića 3, Beograd",
+          "lat": 44.7839851,
+          "lng": 20.4501801
+        }
+      ]
+    },
+    {
+      "name": "Джаз-концерт для детей (3–8 лет",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2920",
+      "coords": [
+        {
+          "address": "Ludwig Land, Svetogorska 46, Beograd",
+          "lat": 44.8127022,
+          "lng": 20.46969
+        }
+      ]
+    },
+    {
+      "name": "Щелкунчик: от сказки до балета» (5–12 лет",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2856",
+      "coords": [
+        {
+          "address": "Cara Uroša 12, Beograd",
+          "lat": 44.8212457,
+          "lng": 20.4558344
+        }
+      ]
+    },
+    {
+      "name": "Спектакль «Каменный цветок» (5",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2958",
+      "coords": [
+        {
+          "address": "Aberdareva 1, Beograd",
+          "lat": 44.8110141,
+          "lng": 20.4696
+        }
+      ]
+    },
+    {
+      "name": "Керамические ёлочные игрушки",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2880",
+      "coords": [
+        {
+          "address": "Lav i Žabac, Beograd",
+          "lat": 44.8211976,
+          "lng": 20.4557408
+        }
+      ]
+    },
+    {
+      "name": "Пиратская DnD-игра (8–12 лет",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2902",
+      "coords": [
+        {
+          "address": "Hobbit Haus, Draže Pavlovića 21, Beograd",
+          "lat": 44.8138266,
+          "lng": 20.4765299
+        }
+      ]
+    },
+    {
+      "name": "DIY в Hobbit House",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2924",
       "coords": [
         {
           "address": "Hobbit House, Draže Pavlovića 21, Beograd",
@@ -149,28 +221,70 @@
       ]
     },
     {
-      "name": "Читакль «Именинный пирог",
+      "name": "LEGO Family Battle (6",
       "day": "sunday",
-      "url": "https://t.me/mamakudaidem/2739",
+      "url": "https://t.me/mamakudaidem/2768",
       "coords": [
         {
-          "address": "Beograd",
-          "lat": 44.8153318,
-          "lng": 20.4456588
+          "address": "Nashe mesto, Vračar, Beograd",
+          "lat": 44.7979128,
+          "lng": 20.4721945
+        }
+      ]
+    },
+    {
+      "name": "Кулинарная мастерская в Sportina (2–10 лет",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2960",
+      "coords": [
+        {
+          "address": "Sportina, Beograd",
+          "lat": 44.7119325,
+          "lng": 20.5581308
+        }
+      ]
+    },
+    {
+      "name": "Art & Wine для мам в «Энтер",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2842",
+      "coords": [
+        {
+          "address": "Porodični prostor Enter, Resavska 34, Beograd",
+          "lat": 44.8071294,
+          "lng": 20.4647294
+        }
+      ]
+    },
+    {
+      "name": "Спектакль «Однажды» (5",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2913",
+      "coords": [
+        {
+          "address": "Ludwig Land, Svetogorska 46, Beograd",
+          "lat": 44.8127022,
+          "lng": 20.46969
+        }
+      ]
+    },
+    {
+      "name": "32 Хармстября",
+      "day": "sunday",
+      "url": "https://t.me/mamakudaidem/2881",
+      "coords": [
+        {
+          "address": "Knjižara Lav i Žabac, Beograd",
+          "lat": 44.8211976,
+          "lng": 20.4557408
         }
       ]
     },
     {
       "name": "Посмотреть события на карте",
       "day": "sunday",
-      "url": "https://t.me/mkis_chat_bot/map?startapp=20261107",
-      "coords": [
-        {
-          "address": "Košutnjak, Beograd",
-          "lat": 44.7667539,
-          "lng": 20.4326687
-        }
-      ]
+      "url": "https://t.me/mkis_chat_bot/map?startapp=20261121",
+      "coords": []
     }
   ]
 }
